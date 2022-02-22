@@ -4,5 +4,5 @@ package com.OOAD;
 // I essentially used it instead of bothering with a name
 // by printing it out in lowercase
 public enum ItemType {
-    PAPERSCORE,CD,VINYL,GUITAR,BASS,MANDOLIN,FLUTE,HARMONICA;
+    PAPERSCORE,CD,VINYL,GUITAR,BASS,MANDOLIN,FLUTE,HARMONICA,CDPLAYER,RECORDPLAYER,MP3;
 }

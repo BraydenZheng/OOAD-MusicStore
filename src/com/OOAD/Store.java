@@ -17,11 +17,18 @@ public class Store implements Logger, Subject {
 
         cashRegister = 0;   // cash register is empty to begin
         cashFromBank = 0;   // no cash from bank yet
+        newClerks(); //initializing clerks
+    }
 
-        // initialize the store's staff
+    void newClerks(){
+        // initialize the store's staff and add tuning
         clerks = new ArrayList<Clerk>();
-        clerks.add(new Clerk("Velma",.05, this));
-        clerks.add(new Clerk("Shaggy", .20, this));
+        Tune haphazardTuning = new haphazardTuning();
+        Tune electronicTuning = new electronicTuning();
+        Tune manualTuning = new manualTuning();
+        clerks.add(new Clerk("Velma",.05, this,haphazardTuning));
+        clerks.add(new Clerk("Shaggy", .20, this,electronicTuning));
+        clerks.add(new Clerk("Daphne", .30,this ,manualTuning));
     }
 
     void openToday(int day) {
@@ -44,6 +51,15 @@ public class Store implements Logger, Subject {
     Clerk getValidClerk() {
         // pick a random clerk
         Clerk clerk = clerks.get(Utility.rndFromRange(0,clerks.size()-1));
+        // there is a 10% chance that the clerk might be sick
+        if(Utility.rnd()<0.1){
+            out(clerk.name+"is sick today");
+            clerks.remove(clerk);
+            getValidClerk();
+        }
+        newClerks();
+
+
         // if they are ok to work, set days worked on other clerks to 0
         if (clerk.daysWorked < 3) {
             clerk.daysWorked += 1;

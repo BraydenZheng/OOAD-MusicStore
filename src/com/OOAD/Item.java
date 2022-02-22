@@ -10,9 +10,17 @@ public abstract class Item implements Logger {
     double salePrice;       // set when sold
     int daySold;            // set when sold
     ItemType itemType;      // set by subclass constructors
-
-    void damageAnItem(Item i) {
-
+    static Store store;            //store object
+    static void damageAnItem(Item i) {
+        switch (i.condition){
+            case FAIR -> i.condition = Condition.POOR;
+            case GOOD -> i.condition = Condition.FAIR;
+            case VERYGOOD -> i.condition = Condition.GOOD;
+            case EXCELLENT -> i.condition = Condition.VERYGOOD;
+        }
+        //item removed from inventory and added in discarded items
+        store.inventory.items.remove(i);
+        store.inventory.discardedItems.add(i);
     }
 
     Item() {
@@ -61,11 +69,13 @@ class Vinyl extends Music {
 abstract class Instrument extends Item {
 }
 
-abstract class Stringed extends Instrument {
+ class Stringed extends Instrument {
+    boolean tuned ;
     boolean isElectric;
     Stringed() {
         super();
         isElectric = (Utility.rnd()>.5); // coin flip for electric or acoustic
+        boolean tuned = false;
     }
 }
 
@@ -88,9 +98,11 @@ class Mandolin extends Stringed {
     }
 }
 
-abstract class Wind extends Instrument {
+class Wind extends Instrument {
+    boolean adjusted;
     Wind() {
         super();
+        boolean adjusted = false;
     }
 }
 
@@ -110,5 +122,31 @@ class Harmonica extends Wind {
         super();
         key = keys[Utility.rndFromRange(0,keys.length-1)];
         itemType = ItemType.HARMONICA;
+    }
+}
+class Players extends Item {
+    public boolean equalized;
+    Players() {
+        super();
+        equalized = false;
+    }
+
+}
+class CDPlayer extends Players {
+    CDPlayer() {
+        super();
+        itemType = ItemType.CDPLAYER;
+    }
+}
+class RecordPlayer extends Players {
+    RecordPlayer() {
+        super();
+        itemType = ItemType.RECORDPLAYER;
+    }
+}
+class MP3 extends Players {
+    MP3() {
+        super();
+        itemType = ItemType.MP3;
     }
 }
