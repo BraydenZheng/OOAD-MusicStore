@@ -26,7 +26,7 @@ public class Simulation implements Logger {
     void startSim(int days) {
         for (int day = 1; day <= days; day++) {
             out(" ");
-            out("*** Simulation day "+day+" ***");
+            out("*** Simulation day "+ day +" ***");
             startDay(day);
         }
     }

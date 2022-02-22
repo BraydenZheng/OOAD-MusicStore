@@ -1,13 +1,14 @@
 package com.OOAD;
 import java.util.ArrayList;
 
-public class Store implements Logger {
+public class Store implements Logger, Subject {
     public ArrayList<Clerk> clerks;
     public Clerk activeClerk;
     public double cashRegister;
     public double cashFromBank;
     public Inventory inventory;
     public int today;
+    private ArrayList<Observer> observers = new ArrayList<Observer>();
 
     Store() {
         // initialize the store's starting inventory
@@ -20,6 +21,9 @@ public class Store implements Logger {
         clerks = new ArrayList<Clerk>();
         clerks.add(new Clerk("Velma",.05, this));
         clerks.add(new Clerk("Shaggy", .20, this));
+
+        //observers
+        //observers = new ArrayList<Observer>();
     }
 
     void openToday(int day) {
@@ -61,5 +65,23 @@ public class Store implements Logger {
 
     void closedToday(int day) {
         out("Store is closed today, day "+day);
+    }
+
+    public void registerObserver(Observer o) {
+        observers.add(o);
+    }
+
+    public void removeObserver(Observer o) {
+        observers.remove(o);
+    }
+
+    public void notifyObserver(String message) {
+        for (Observer observer : observers) {
+            observer.update(message);
+        }
+    }
+
+    public void notifyChanges(String message) {
+        notifyObserver(message);
     }
 }

@@ -6,7 +6,7 @@ public abstract class Staff {
     String name;    // Velma and Shaggy
 }
 
-class Clerk extends Staff implements Logger {
+class Clerk extends Staff implements Logger, Observer {
     int daysWorked;
     double damageChance;    // Velma = .05, Shaggy = .20
     Store store;
@@ -16,10 +16,15 @@ class Clerk extends Staff implements Logger {
          this.damageChance = damageChance;
          this.store = store;
          daysWorked = 0;
+         store.registerObserver(this);
     }
 
     void arriveAtStore() {
         out(this.name + " arrives at store.");
+
+        //TODO publish event
+        store.notifyChanges(this.name + " arrives at store.");
+
         // have to check for any arriving items slated for this day
         out( this.name + " checking for arriving items.");
         // there's a tricky concurrent removal thing that prevents doing this
@@ -228,5 +233,10 @@ class Clerk extends Staff implements Logger {
     }
     void leaveTheStore() {
         out(this.name + " locks up the store and leaves.");
+    }
+
+    @Override
+    public void update(String message) {
+        System.out.println("Observer" + message);
     }
 }
