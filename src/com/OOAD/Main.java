@@ -1,5 +1,3 @@
-// @Source: The project use all of example code from Prof. Bruce Monta
-
 package com.OOAD;
 
 // Example code for Project 2 Part 2

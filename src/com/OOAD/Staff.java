@@ -10,12 +10,13 @@ class Clerk extends Staff implements Logger {
     int daysWorked;
     double damageChance;    // Velma = .05, Shaggy = .20
     Store store;
-
-    Clerk(String name, double damageChance, Store store) {
+    Tune tuneAlgorithm;
+    Clerk(String name, double damageChance, Store store, Tune tuneAlgorithm) {
          this.name = name;
          this.damageChance = damageChance;
          this.store = store;
          daysWorked = 0;
+         this.tuneAlgorithm = tuneAlgorithm;
     }
 
     void arriveAtStore() {
@@ -53,6 +54,17 @@ class Clerk extends Staff implements Logger {
 
     void doInventory() {
         out(this.name + " is doing inventory.");
+        //setting tune algorithm
+        Tune tAlg = this.tuneAlgorithm;
+        TuneContext tuneContext = new TuneContext();
+        for ( Item item: store.inventory.items){
+            tuneContext.setTune(tAlg,item);
+            if ((item instanceof Players && !((Players) item).equalized) ||
+                    (item instanceof Stringed && !((Stringed) item).tuned) ||
+                    (item instanceof Wind && !((Wind) item).adjusted)) {
+                if(Utility.rnd()<=0.1) Item.damageAnItem(item);
+            }
+        }
         for (ItemType type: ItemType.values()) {
             int numItems = store.inventory.countByType(store.inventory.items,type);
             out(this.name + " counts "+numItems+" "+type.toString().toLowerCase());
@@ -150,7 +162,7 @@ class Clerk extends Staff implements Logger {
         store.cashRegister += item.listPrice;
     }
 
-    // find a selecyted item of a certain type from the items
+    // find a selected item of a certain type from the items
     Item GetItemFromInventoryByCount(int countInStock, ItemType type) {
         int count = 0;
         for(Item item: store.inventory.items) {
@@ -224,6 +236,17 @@ class Clerk extends Staff implements Logger {
             // reduce the condition for a random item
             // take the item off the main inventory and put it on the broken items ArrayList
             // left as an exercise to the reader :-)
+            Item item = store.inventory.items.get(Utility.rndFromRange(0,store.inventory.items.size()));
+            switch (item.condition){
+                case FAIR -> item.condition = Condition.POOR;
+                case GOOD -> item.condition = Condition.FAIR;
+                case VERYGOOD -> item.condition = Condition.GOOD;
+                case EXCELLENT -> item.condition = Condition.VERYGOOD;
+            }
+            //item removed from inventory and added in discarded items
+            store.inventory.items.remove(item);
+            store.inventory.discardedItems.add(item);
+
         }
     }
     void leaveTheStore() {
