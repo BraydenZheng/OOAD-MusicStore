@@ -9,6 +9,7 @@ public class Store implements Logger, Subject {
     public Inventory inventory;
     public int today;
     private ArrayList<Observer> observers = new ArrayList<Observer>();
+    public Log log;
 
     Store() {
         // initialize the store's starting inventory
@@ -21,12 +22,13 @@ public class Store implements Logger, Subject {
         clerks = new ArrayList<Clerk>();
         clerks.add(new Clerk("Velma",.05, this));
         clerks.add(new Clerk("Shaggy", .20, this));
-
-        //observers
-        //observers = new ArrayList<Observer>();
     }
 
     void openToday(int day) {
+
+        // new log object
+        log = new Log(day);
+
         today = day;
         out("Store opens today, day "+day);
         activeClerk = getValidClerk();
@@ -77,7 +79,7 @@ public class Store implements Logger, Subject {
 
     public void notifyObserver(String message) {
         for (Observer observer : observers) {
-            observer.update(message);
+            log.update(message);
         }
     }
 

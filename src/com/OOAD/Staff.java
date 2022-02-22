@@ -20,9 +20,11 @@ class Clerk extends Staff implements Logger, Observer {
     }
 
     void arriveAtStore() {
+        int addItems = 0;
+
         out(this.name + " arrives at store.");
 
-        //TODO publish event
+        //publish event
         store.notifyChanges(this.name + " arrives at store.");
 
         // have to check for any arriving items slated for this day
@@ -36,13 +38,21 @@ class Clerk extends Staff implements Logger, Observer {
             if (item.dayArriving == store.today) {
                 out( this.name + " putting a " + item.itemType.toString().toLowerCase() + " in inventory.");
                 store.inventory.items.add(item);
+                addItems++;
                 itr.remove();
             }
         }
+
+        //publishing event: number of items added to inventory
+        store.notifyChanges("Number of items added to inventory is " + addItems);
     }
 
     void checkRegister() {
         out(this.name + " checks: "+Utility.asDollar(store.cashRegister)+" in register.");
+
+        //check register event
+        store.notifyChanges(this.name + " checks: " + Utility.asDollar(store.cashRegister) + " in register.");
+
         if (store.cashRegister<75) {
             out("Cash register is low on funds.");
             this.goToBank();
@@ -68,6 +78,10 @@ class Clerk extends Staff implements Logger, Observer {
         int count = store.inventory.items.size();
         double worth = store.inventory.getValue(store.inventory.items);
         out(this.name + " finds " + count + " items in store, worth "+Utility.asDollar(worth));
+
+        //publish event
+        store.notifyChanges("Number of items in inventory is " + count);
+        store.notifyChanges("The total purchase price value of inventory items is " + Utility.asDollar(worth));
     }
 
     void placeAnOrder(ItemType type) {
@@ -103,6 +117,7 @@ class Clerk extends Staff implements Logger, Observer {
         for (int i = 1; i <= buyers; i++) this.sellAnItem(i);
         for (int i = 1; i <= sellers; i++) this.buyAnItem(i);
     }
+
     void sellAnItem(int customer) {
         String custName = "Buyer "+customer;
         out(this.name+" serving "+custName);
@@ -233,10 +248,7 @@ class Clerk extends Staff implements Logger, Observer {
     }
     void leaveTheStore() {
         out(this.name + " locks up the store and leaves.");
-    }
 
-    @Override
-    public void update(String message) {
-        System.out.println("Observer" + message);
+        store.notifyChanges(this.name + " clerk has left the store");
     }
 }

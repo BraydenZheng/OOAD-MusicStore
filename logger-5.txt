@@ -1,0 +1,12 @@
+Shaggy arrives at store.
+Shaggy arrives at store.
+Number of items added to inventory is 6
+Number of items added to inventory is 6
+Shaggy checks: $1,734.80 in register.
+Shaggy checks: $1,734.80 in register.
+Number of items in inventory is 14
+Number of items in inventory is 14
+The total purchase price value of inventory items is $289.50
+The total purchase price value of inventory items is $289.50
+Shaggy clerk has left the store
+Shaggy clerk has left the store

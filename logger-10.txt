@@ -1,0 +1,12 @@
+Velma arrives at store.
+Velma arrives at store.
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Velma checks: $2,182.80 in register.
+Velma checks: $2,182.80 in register.
+Number of items in inventory is 15
+Number of items in inventory is 15
+The total purchase price value of inventory items is $403.60
+The total purchase price value of inventory items is $403.60
+Velma clerk has left the store
+Velma clerk has left the store
