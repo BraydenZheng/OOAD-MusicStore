@@ -1,6 +1,7 @@
 package com.OOAD;
 
 import java.util.Iterator;
+import java.util.Random;
 
 public abstract class Staff {
     String name;    // Velma and Shaggy
@@ -11,13 +12,34 @@ class Clerk extends Staff implements Logger, Observer {
     double damageChance;    // Velma = .05, Shaggy = .20
     Store store;
     Tune tuneAlgorithm;
+    int itemsSold;
+    int itemsPurchased;
+    int itemsDamaged;
+
     Clerk(String name, double damageChance, Store store, Tune tuneAlgorithm) {
          this.name = name;
          this.damageChance = damageChance;
          this.store = store;
          daysWorked = 0;
          this.tuneAlgorithm = tuneAlgorithm;
+         itemsSold = 0;
+         itemsDamaged = 0;
+         itemsPurchased = 0;
          store.registerObserver(this);
+    }
+
+    // code taken from stack overflow
+    //https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
+    private static int getPoissonRandom(double mean) {
+        Random r = new Random();
+        double L = Math.exp(-mean);
+        int k = 0;
+        double p = 1.0;
+        do {
+            p = p * r.nextDouble();
+            k++;
+        } while (p > L);
+        return k - 1;
     }
 
     void arriveAtStore() {
@@ -25,7 +47,7 @@ class Clerk extends Staff implements Logger, Observer {
 
         out(this.name + " arrives at store.");
 
-        //publish event
+        //publish event: arriving at store
         store.notifyChanges(this.name + " arrives at store.");
 
         // have to check for any arriving items slated for this day
@@ -51,7 +73,7 @@ class Clerk extends Staff implements Logger, Observer {
     void checkRegister() {
         out(this.name + " checks: "+Utility.asDollar(store.cashRegister)+" in register.");
 
-        //check register event
+        //publish event: check register
         store.notifyChanges(this.name + " checks: " + Utility.asDollar(store.cashRegister) + " in register.");
 
         if (store.cashRegister<75) {
@@ -91,9 +113,10 @@ class Clerk extends Staff implements Logger, Observer {
         double worth = store.inventory.getValue(store.inventory.items);
         out(this.name + " finds " + count + " items in store, worth "+Utility.asDollar(worth));
 
-        //publish event
+        //publish event: total number of items, total price and damage items
         store.notifyChanges("Number of items in inventory is " + count);
         store.notifyChanges("The total purchase price value of inventory items is " + Utility.asDollar(worth));
+        store.notifyChanges("The total number of items damages is: " + store.inventory.discardedItems.size());
     }
 
     void placeAnOrder(ItemType type) {
@@ -103,7 +126,7 @@ class Clerk extends Staff implements Logger, Observer {
         int arrivalDay = Utility.rndFromRange(1,3);
         // check to see if any are in the arriving queue
         int count = store.inventory.countByType(store.inventory.arrivingItems,type);
-        if (count>0) {
+        if (count>0 && !"clothing".equals(type.toString().toLowerCase())) {
             out("There is an order coming for " + type.toString().toLowerCase());
         }
         else {
@@ -120,10 +143,14 @@ class Clerk extends Staff implements Logger, Observer {
                 }
             }
         }
+
+        //publish event: total number of items ordered
+        store.notifyChanges("Number of items in inventory is " + store.inventory.items.size());
     }
 
     void openTheStore() {
-        int buyers = Utility.rndFromRange(4,10);
+        //int buyers = Utility.rndFromRange(4,10);
+        int buyers = 2 + getPoissonRandom(3);
         int sellers = Utility.rndFromRange(1,4);
         out(buyers + " buyers, "+sellers+" sellers today.");
         for (int i = 1; i <= buyers; i++) this.sellAnItem(i);
@@ -180,6 +207,10 @@ class Clerk extends Staff implements Logger, Observer {
         store.inventory.soldItems.add(item);
         // money for item goes to register
         store.cashRegister += item.listPrice;
+        itemsSold++;
+
+        //publish event: total number of items sold
+        store.notifyChanges("Number of items in inventory is " + store.inventory.soldItems.size());
     }
 
     // find a selected item of a certain type from the items
@@ -199,6 +230,9 @@ class Clerk extends Staff implements Logger, Observer {
         out(this.name+" serving "+custName);
         ItemType type = Utility.randomEnum(ItemType.class);
         out(custName + " wants to sell a "+type.toString().toLowerCase());
+        if("clothing".equals(type.toString().toLowerCase())) {
+            System.out.println("Customer wants to sell clothing item but store is no more accepting this");
+        }
         Item item = store.inventory.makeNewItemByType(type);
         // clerk will determine new or used, condition, purchase price (based on condition)
         // we'll take the random isNew, condition from the generated item
@@ -221,6 +255,9 @@ class Clerk extends Staff implements Logger, Observer {
                 out(custName + " wouldn't sell item.");
             }
         }
+
+        //publish event: total number of items purchased
+        store.notifyChanges("Number of items in inventory is " + store.inventory.items.size());
     }
 
     void buyItemFromCustomer(Item item, String custName) {
@@ -232,6 +269,7 @@ class Clerk extends Staff implements Logger, Observer {
             item.listPrice = 2 * item.purchasePrice;
             item.dayArriving = store.today;
             store.inventory.items.add(item);
+            itemsPurchased++;
         }
         else {
             out(this.name + "cannot buy item, register only has "+Utility.asDollar(store.cashRegister));
@@ -267,11 +305,20 @@ class Clerk extends Staff implements Logger, Observer {
             store.inventory.items.remove(item);
             store.inventory.discardedItems.add(item);
 
+            itemsDamaged++;
+            //publish event: total number of items ordered
+            store.notifyChanges("Number of items in inventory is " + store.inventory.discardedItems.size());
         }
     }
     void leaveTheStore() {
         out(this.name + " locks up the store and leaves.");
 
+        //tracker
+        store.track.updateTracker(store.clerks);
+
+        itemsPurchased = 0;
+        itemsSold = 0;
+        itemsDamaged = 0;
         store.notifyChanges(this.name + " clerk has left the store");
     }
 }

@@ -10,6 +10,7 @@ public class Store implements Logger, Subject {
     public int today;
     private ArrayList<Observer> observers = new ArrayList<Observer>();
     public Log log;
+    public Tracker track;
 
     Store() {
         // initialize the store's starting inventory
@@ -35,7 +36,7 @@ public class Store implements Logger, Subject {
 
         // new log object
         log = new Log(day);
-
+        track = new Tracker(day);
         today = day;
         out("Store opens today, day "+day);
         activeClerk = getValidClerk();
