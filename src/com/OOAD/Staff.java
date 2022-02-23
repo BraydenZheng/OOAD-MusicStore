@@ -22,9 +22,9 @@ class Clerk extends Staff implements Logger, Observer {
          this.store = store;
          daysWorked = 0;
          this.tuneAlgorithm = tuneAlgorithm;
-         itemsSold = 0;
-         itemsDamaged = 0;
-         itemsPurchased = 0;
+         this.itemsSold = 0;
+         this.itemsDamaged = 0;
+         this.itemsPurchased = 0;
          store.registerObserver(this);
     }
 
@@ -214,7 +214,7 @@ class Clerk extends Staff implements Logger, Observer {
         store.inventory.soldItems.add(item);
         // money for item goes to register
         store.cashRegister += item.listPrice;
-        itemsSold++;
+        this.itemsSold++;
 
         //publish event: total number of items sold
         store.notifyChanges("Number of items in inventory is " + store.inventory.soldItems.size());
@@ -276,7 +276,7 @@ class Clerk extends Staff implements Logger, Observer {
             item.listPrice = 2 * item.purchasePrice;
             item.dayArriving = store.today;
             store.inventory.items.add(item);
-            itemsPurchased++;
+            this.itemsPurchased++;
         }
         else {
             out(this.name + "cannot buy item, register only has "+Utility.asDollar(store.cashRegister));
@@ -312,7 +312,7 @@ class Clerk extends Staff implements Logger, Observer {
             store.inventory.items.remove(item);
             store.inventory.discardedItems.add(item);
 
-            itemsDamaged++;
+            this.itemsDamaged++;
             //publish event: total number of items ordered
             store.notifyChanges("Number of items in inventory is " + store.inventory.discardedItems.size());
         }
@@ -320,12 +320,20 @@ class Clerk extends Staff implements Logger, Observer {
     void leaveTheStore() {
         out(this.name + " locks up the store and leaves.");
 
+        for (Clerk c : store.clerks) {
+            if(this.name.equals(c.name)) {
+                c.itemsSold = this.itemsSold;
+                c.itemsPurchased = this.itemsPurchased;
+                c.itemsDamaged = this.itemsDamaged;
+            }
+        }
+
         //tracker
         store.track.updateTracker(store.clerks);
 
-        itemsPurchased = 0;
-        itemsSold = 0;
-        itemsDamaged = 0;
+        this.itemsPurchased = 0;
+        this.itemsSold = 0;
+        this.itemsDamaged = 0;
         store.notifyChanges(this.name + " clerk has left the store");
     }
 }

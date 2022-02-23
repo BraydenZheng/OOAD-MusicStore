@@ -22,7 +22,7 @@ public class Tracker implements Observer{
     }
 
     private void createFile() throws IOException {
-        fw = new FileWriter("tracker.txt");
+        fw = new FileWriter("tracker.txt", true);
         outFile = new PrintWriter(fw);
     }
 
@@ -31,7 +31,7 @@ public class Tracker implements Observer{
         outFile.println("Tracker: " + day);
         outFile.println("Clerk      Items Sold      Items Purchased     Item Damaged");
         for (Clerk c : clerks) {
-            outFile.println(c.name + "      " + c.itemsSold + "     " + c.itemsPurchased + "        " + c.itemsDamaged);
+            outFile.println(c.name + "              " + c.itemsSold + "             " + c.itemsPurchased + "            " + c.itemsDamaged);
         }
         outFile.flush();
     }
