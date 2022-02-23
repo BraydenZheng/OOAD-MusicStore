@@ -36,7 +36,7 @@ public class Inventory implements Logger {
     // we're not applying patterns here yet, otherwise this really wants to be formatted
     // as a factory
     Item makeNewItemByType(ItemType type) {
-        Item item;
+        Item item = null;
         switch (type) {
             case PAPERSCORE -> item = new PaperScore();
             case CD -> item = new CD();
@@ -46,6 +46,15 @@ public class Inventory implements Logger {
             case MANDOLIN -> item = new Mandolin();
             case FLUTE -> item = new Flute();
             case HARMONICA -> item = new Harmonica();
+            case GIGBAG -> item = new GigBagAddon();
+            case PRACTICEAMPS -> item = new PracticeAmpsAddons();
+            case CABLES -> item = new CablesAddon();
+            case STRINGS -> item = new StringsAddon();
+            case SAXOPHONE -> item = new Saxophone();
+            case CDPLAYER -> item = new CDPlayer();
+            case RECORDPLAYER -> item = new RecordPlayer();
+            case MP3 -> item = new MP3();
+            case CASSETTEPLAYER -> new CassettePlayer();
             default -> {
                 out("Error in makeNewItemByType - unexpected type enum");
                 item = null;
@@ -59,7 +68,12 @@ public class Inventory implements Logger {
     // count of specific item types is needed sometimes
     int countByType(ArrayList<Item> list, ItemType type) {
         int count = 0;
-        for (Item item:list) if (item.itemType == type) count += 1;
+        for (Item item:list) {
+            if (item.itemType == type)
+            {
+                count += 1;
+            }
+        }
         return count;
     }
 

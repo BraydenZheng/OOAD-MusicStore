@@ -138,11 +138,18 @@ class Clerk extends Staff implements Logger {
     void sellItemtoCustomer(Item item,String custName) {
         String itemName = item.itemType.toString().toLowerCase();
         String price = Utility.asDollar(item.listPrice);
-        out (this.name + " is selling "+ itemName + " for " + price +" to "+custName);
+        // do combo sale for stringed class
+        if (item instanceof Stringed)
+        {
+            SellDecorator sellDecorator = new SellDecorator();
+            sellDecorator.comboSell(this, ((Stringed)item).isElectric, custName, store);
+        }
+
+        out(this.name + " is selling " + itemName + " for " + price + " to " + custName);
         // when sold - move item to sold items with daySold and salePrice noted
-        out ( "inventory count: "+store.inventory.items.size());
+        out("inventory count: " + store.inventory.items.size());
         store.inventory.items.remove(item);
-        out ( "inventory count: "+store.inventory.items.size());
+        out("inventory count: " + store.inventory.items.size());
         item.salePrice = item.listPrice;
         item.daySold = store.today;
         store.inventory.soldItems.add(item);

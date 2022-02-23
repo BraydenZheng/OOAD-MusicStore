@@ -10,6 +10,7 @@ public abstract class Item implements Logger {
     double salePrice;       // set when sold
     int daySold;            // set when sold
     ItemType itemType;      // set by subclass constructors
+    static int comboChance;        // the chance to be bought combined with other items
 
     void damageAnItem(Item i) {
 
@@ -58,11 +59,18 @@ class Vinyl extends Music {
     }
 }
 
+class Cassette extends Music {
+    Cassette() {
+        super();
+        itemType = ItemType.CASSETTE;
+    }
+}
+
 abstract class Instrument extends Item {
 }
 
 abstract class Stringed extends Instrument {
-    boolean isElectric;
+    public boolean isElectric;
     Stringed() {
         super();
         isElectric = (Utility.rnd()>.5); // coin flip for electric or acoustic
@@ -112,3 +120,52 @@ class Harmonica extends Wind {
         itemType = ItemType.HARMONICA;
     }
 }
+
+class Saxophone extends Wind {
+    String type;
+    String[] types = {"Piccolo","Alto","Bass","Tierce","Concert","Plastic"};
+    Saxophone() {
+        super();
+        type = types[Utility.rndFromRange(0,types.length-1)];
+        itemType = ItemType.SAXOPHONE;
+    }
+}
+
+abstract class Accessories extends Item {
+}
+
+abstract class Player extends Item {
+}
+
+class CDPlayer extends Player{
+    public CDPlayer()
+    {
+    	super();
+    	itemType = ItemType.CDPLAYER;
+    }
+}
+
+class RecordPlayer extends Player{
+    public RecordPlayer()
+    {
+        super();
+        itemType = ItemType.RECORDPLAYER;
+    }
+}
+
+class MP3 extends Player{
+    public MP3()
+    {
+        super();
+        itemType = ItemType.MP3;
+    }
+}
+
+class CassettePlayer extends Player{
+    public CassettePlayer()
+    {
+        super();
+        itemType = ItemType.CASSETTEPLAYER;
+    }
+}
+
