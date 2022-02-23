@@ -13,7 +13,6 @@ public class SellDecorator implements Logger
 
 		int toss = Utility.rndFromRange(0, 100);
 		int countInStock = store.inventory.countByType(store.inventory.items, ItemType.GIGBAG);
-
 		if (countInStock > 0 && toss < GigBagAddon.comboChance - chanceDeduct) {
 			int pickItemIndex = Utility.rndFromRange(1,countInStock);
 			Item curr = clerk.GetItemFromInventoryByCount(countInStock, ItemType.GIGBAG);
@@ -21,6 +20,8 @@ public class SellDecorator implements Logger
 			item = new GigBagAddon(item);
 		}
 
+		toss = Utility.rndFromRange(0, 100);
+		countInStock = store.inventory.countByType(store.inventory.items, ItemType.PRACTICEAMPS);
 		if (countInStock > 0 && toss < PracticeAmpsAddons.comboChance - chanceDeduct) {
 			int pickItemIndex = Utility.rndFromRange(1,countInStock);
 			Item curr = clerk.GetItemFromInventoryByCount(countInStock, ItemType.PRACTICEAMPS);
@@ -30,6 +31,8 @@ public class SellDecorator implements Logger
 
 		for (int i = 0; i < 1; i++)
 		{
+			toss = Utility.rndFromRange(0, 100);
+			countInStock = store.inventory.countByType(store.inventory.items, ItemType.CABLES);
 			if (countInStock > 0 && toss < CablesAddon.comboChance - chanceDeduct)
 			{
 				int pickItemIndex = Utility.rndFromRange(1, countInStock);
@@ -41,6 +44,8 @@ public class SellDecorator implements Logger
 
 		for (int i = 0; i < 2; i++)
 		{
+			toss = Utility.rndFromRange(0, 100);
+			countInStock = store.inventory.countByType(store.inventory.items, ItemType.STRINGS);
 			if (countInStock > 0 && toss < StringsAddon.comboChance - chanceDeduct)
 			{
 				int pickItemIndex = Utility.rndFromRange(1, countInStock);

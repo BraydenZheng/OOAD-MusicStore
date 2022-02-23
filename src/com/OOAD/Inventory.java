@@ -36,7 +36,7 @@ public class Inventory implements Logger {
     // we're not applying patterns here yet, otherwise this really wants to be formatted
     // as a factory
     Item makeNewItemByType(ItemType type) {
-        Item item = null;
+        Item item;
         switch (type) {
             case PAPERSCORE -> item = new PaperScore();
             case CD -> item = new CD();
@@ -54,7 +54,8 @@ public class Inventory implements Logger {
             case CDPLAYER -> item = new CDPlayer();
             case RECORDPLAYER -> item = new RecordPlayer();
             case MP3 -> item = new MP3();
-            case CASSETTEPLAYER -> new CassettePlayer();
+            case CASSETTEPLAYER -> item =  new CassettePlayer();
+            case CASSETTE -> item = new Cassette();
             default -> {
                 out("Error in makeNewItemByType - unexpected type enum");
                 item = null;
