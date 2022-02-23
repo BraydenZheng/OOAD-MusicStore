@@ -12,7 +12,6 @@ public abstract class Item implements Logger {
     ItemType itemType;      // set by subclass constructors
     static int comboChance;        // the chance to be bought combined with other items
 
-    static Store store;            //store object
     static void damageAnItem(Item i) {
         switch (i.condition){
             case FAIR -> i.condition = Condition.POOR;
@@ -21,8 +20,6 @@ public abstract class Item implements Logger {
             case EXCELLENT -> i.condition = Condition.VERYGOOD;
         }
         //item removed from inventory and added in discarded items
-        store.inventory.items.remove(i);
-        store.inventory.discardedItems.add(i);
     }
 
     public Item() {
