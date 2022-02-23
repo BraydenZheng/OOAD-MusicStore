@@ -10,7 +10,8 @@ public abstract class Item implements Logger {
     double salePrice;       // set when sold
     int daySold;            // set when sold
     ItemType itemType;      // set by subclass constructors
-    static Store store;            //store object
+    static int comboChance;        // the chance to be bought combined with other items
+
     static void damageAnItem(Item i) {
         switch (i.condition){
             case FAIR -> i.condition = Condition.POOR;
@@ -19,11 +20,9 @@ public abstract class Item implements Logger {
             case EXCELLENT -> i.condition = Condition.VERYGOOD;
         }
         //item removed from inventory and added in discarded items
-        store.inventory.items.remove(i);
-        store.inventory.discardedItems.add(i);
     }
 
-    Item() {
+    public Item() {
         // common initialization of a new instance
         purchasePrice = Utility.rndFromRange(1,50);
         listPrice = 2 * purchasePrice;
@@ -66,12 +65,19 @@ class Vinyl extends Music {
     }
 }
 
+class Cassette extends Music {
+    Cassette() {
+        super();
+        itemType = ItemType.CASSETTE;
+    }
+}
+
 abstract class Instrument extends Item {
 }
 
- class Stringed extends Instrument {
-    boolean tuned ;
-    boolean isElectric;
+abstract class Stringed extends Instrument {
+    public boolean isElectric;
+    boolean tuned;
     Stringed() {
         super();
         isElectric = (Utility.rnd()>.5); // coin flip for electric or acoustic
@@ -98,7 +104,7 @@ class Mandolin extends Stringed {
     }
 }
 
-class Wind extends Instrument {
+abstract class Wind extends Instrument {
     boolean adjusted;
     Wind() {
         super();
@@ -124,29 +130,61 @@ class Harmonica extends Wind {
         itemType = ItemType.HARMONICA;
     }
 }
-class Players extends Item {
+
+class Saxophone extends Wind {
+    String type;
+    String[] types = {"Piccolo","Alto","Bass","Tierce","Concert","Plastic"};
+    Saxophone() {
+        super();
+        type = types[Utility.rndFromRange(0,types.length-1)];
+        itemType = ItemType.SAXOPHONE;
+    }
+}
+
+abstract class Accessories extends Item {
+}
+
+abstract class Players extends Item {
     public boolean equalized;
     Players() {
         super();
         equalized = false;
     }
-
 }
-class CDPlayer extends Players {
-    CDPlayer() {
-        super();
-        itemType = ItemType.CDPLAYER;
+
+class CDPlayers extends Players
+{
+    public CDPlayers()
+    {
+    	super();
+    	itemType = ItemType.CDPLAYER;
     }
 }
-class RecordPlayer extends Players {
-    RecordPlayer() {
+
+class RecordPlayers extends Players
+{
+    public RecordPlayers()
+    {
         super();
         itemType = ItemType.RECORDPLAYER;
     }
 }
-class MP3 extends Players {
-    MP3() {
+
+class MP3 extends Players
+{
+    public MP3()
+    {
         super();
         itemType = ItemType.MP3;
     }
 }
+
+class CassettePlayers extends Players
+{
+    public CassettePlayers()
+    {
+        super();
+        itemType = ItemType.CASSETTEPLAYER;
+    }
+}
+
