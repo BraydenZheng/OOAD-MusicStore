@@ -53,12 +53,12 @@ public class Store implements Logger, Subject {
         // pick a random clerk
         Clerk clerk = clerks.get(Utility.rndFromRange(0,clerks.size()-1));
         // there is a 10% chance that the clerk might be sick
-        if(Utility.rnd()<0.1){
-            out(clerk.name+"is sick today");
+        if(Utility.rnd() < 0.1){
+            out(clerk.name + " is sick today");
             clerks.remove(clerk);
             getValidClerk();
         }
-        newClerks();
+        //newClerks(); TODO
 
 
         // if they are ok to work, set days worked on other clerks to 0

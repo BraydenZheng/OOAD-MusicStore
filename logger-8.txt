@@ -1,462 +1,60 @@
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Velma arrives at store.
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Number of items added to inventory is 3
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Velma checks: $1,857.00 in register.
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total purchase price value of inventory items is $1,368.10
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-The total number of items damages is: 1
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 26
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 27
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 46
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 47
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Number of items in inventory is 48
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
-Velma clerk has left the store
+Daphne arrives at store.
+Daphne arrives at store.
+Daphne arrives at store.
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Daphne checks: $2,101.50 in register.
+Daphne checks: $2,101.50 in register.
+Daphne checks: $2,101.50 in register.
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+The total purchase price value of inventory items is $901.60
+The total purchase price value of inventory items is $901.60
+The total purchase price value of inventory items is $901.60
+The total number of items damages is: 2
+The total number of items damages is: 2
+The total number of items damages is: 2
+Number of items in inventory is 30
+Number of items in inventory is 30
+Number of items in inventory is 30
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 35
+Number of items in inventory is 35
+Number of items in inventory is 35
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 35
+Number of items in inventory is 35
+Number of items in inventory is 35
+Number of items in inventory is 36
+Number of items in inventory is 36
+Number of items in inventory is 36
+Number of items in inventory is 37
+Number of items in inventory is 37
+Number of items in inventory is 37
+Daphne clerk has left the store
+Daphne clerk has left the store
+Daphne clerk has left the store

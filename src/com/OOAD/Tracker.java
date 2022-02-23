@@ -28,6 +28,7 @@ public class Tracker implements Observer{
 
     @Override
     public void updateTracker(ArrayList<Clerk> clerks) {
+        outFile.println('\n');
         outFile.println("Tracker: " + day);
         outFile.println("Clerk      Items Sold      Items Purchased     Item Damaged");
         for (Clerk c : clerks) {

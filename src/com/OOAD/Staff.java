@@ -22,9 +22,6 @@ class Clerk extends Staff implements Logger, Observer {
          this.store = store;
          daysWorked = 0;
          this.tuneAlgorithm = tuneAlgorithm;
-         this.itemsSold = 0;
-         this.itemsDamaged = 0;
-         this.itemsPurchased = 0;
          store.registerObserver(this);
     }
 
@@ -331,9 +328,6 @@ class Clerk extends Staff implements Logger, Observer {
         //tracker
         store.track.updateTracker(store.clerks);
 
-        this.itemsPurchased = 0;
-        this.itemsSold = 0;
-        this.itemsDamaged = 0;
         store.notifyChanges(this.name + " clerk has left the store");
     }
 }
