@@ -21,6 +21,9 @@ class Clerk extends Staff implements Logger, Observer {
          this.damageChance = damageChance;
          this.store = store;
          daysWorked = 0;
+         this.itemsSold = 0;
+         this.itemsPurchased = 0;
+         this.itemsDamaged = 0;
          this.tuneAlgorithm = tuneAlgorithm;
          store.registerObserver(this);
     }
@@ -317,16 +320,16 @@ class Clerk extends Staff implements Logger, Observer {
     void leaveTheStore() {
         out(this.name + " locks up the store and leaves.");
 
-        for (Clerk c : store.clerks) {
+        for (Clerk c : store.clerksTrackerData) {
             if(this.name.equals(c.name)) {
-                c.itemsSold = this.itemsSold;
-                c.itemsPurchased = this.itemsPurchased;
-                c.itemsDamaged = this.itemsDamaged;
+                c.itemsSold += this.itemsSold;
+                c.itemsPurchased += this.itemsPurchased;
+                c.itemsDamaged += this.itemsDamaged;
             }
         }
 
         //tracker
-        store.track.updateTracker(store.clerks);
+        store.track.updateTracker(store.clerksTrackerData);
 
         store.notifyChanges(this.name + " clerk has left the store");
     }

@@ -2,7 +2,7 @@ package com.OOAD;
 import java.util.ArrayList;
 
 public class Store implements Logger, Subject {
-    public ArrayList<Clerk> clerks;
+    public ArrayList<Clerk> clerks = new ArrayList<Clerk>();
     public Clerk activeClerk;
     public double cashRegister;
     public double cashFromBank;
@@ -11,6 +11,7 @@ public class Store implements Logger, Subject {
     private ArrayList<Observer> observers = new ArrayList<Observer>();
     public Log log;
     public Tracker track;
+    public ArrayList<Clerk> clerksTrackerData = new ArrayList<Clerk>();
 
     Store() {
         // initialize the store's starting inventory
@@ -19,6 +20,13 @@ public class Store implements Logger, Subject {
         cashRegister = 0;   // cash register is empty to begin
         cashFromBank = 0;   // no cash from bank yet
         newClerks(); //initializing clerks
+
+        Tune haphazardTuning = new haphazardTuning();
+        Tune electronicTuning = new electronicTuning();
+        Tune manualTuning = new manualTuning();
+        clerksTrackerData.add(new Clerk("Velma",.05, this,haphazardTuning));
+        clerksTrackerData.add(new Clerk("Shaggy", .20, this,electronicTuning));
+        clerksTrackerData.add(new Clerk("Daphne", .30,this ,manualTuning));
     }
 
     void newClerks(){
@@ -58,7 +66,7 @@ public class Store implements Logger, Subject {
             clerks.remove(clerk);
             getValidClerk();
         }
-        //newClerks(); TODO
+        newClerks();
 
 
         // if they are ok to work, set days worked on other clerks to 0

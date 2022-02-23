@@ -1,42 +1,1620 @@
 Velma arrives at store.
 Velma arrives at store.
 Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
+Velma arrives at store.
 Number of items added to inventory is 0
 Number of items added to inventory is 0
 Number of items added to inventory is 0
-Velma checks: $5,165.38 in register.
-Velma checks: $5,165.38 in register.
-Velma checks: $5,165.38 in register.
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-Number of items in inventory is 33
-The total purchase price value of inventory items is $698.40
-The total purchase price value of inventory items is $698.40
-The total purchase price value of inventory items is $698.40
-The total number of items damages is: 5
-The total number of items damages is: 5
-The total number of items damages is: 5
-Number of items in inventory is 113
-Number of items in inventory is 113
-Number of items in inventory is 113
-Number of items in inventory is 114
-Number of items in inventory is 114
-Number of items in inventory is 114
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Number of items added to inventory is 0
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Velma checks: $5,219.98 in register.
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+Number of items in inventory is 34
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total purchase price value of inventory items is $749.00
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+The total number of items damages is: 6
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 116
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 117
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 118
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 119
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
+Number of items in inventory is 31
 Number of items in inventory is 32
 Number of items in inventory is 32
 Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 32
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
+Velma clerk has left the store
 Velma clerk has left the store
 Velma clerk has left the store
 Velma clerk has left the store
