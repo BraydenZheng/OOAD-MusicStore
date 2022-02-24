@@ -1,8 +1,7 @@
 package com.OOAD;
 
-// Example code for Project 2 Part 2
+// @Source: We use the whole Example code for Project 2 Part 2
 // Bruce Montgomery - 2/14/22 - OOAD CSCI 4/5448 - CU Boulder
-// Please cite any use of this code in your own future OOAD exercises
 
 public class Main {
 

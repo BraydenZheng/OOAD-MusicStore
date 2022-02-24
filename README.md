@@ -1,4 +1,5 @@
 <h2>Team members : Bofan Zheng , Shreyas Savanoor Ravindra , Harini Thorali<h2> <br>
+<h3> This project using all example code for Project 2 Part 2 (Bruce Montgomery - 2/14/22 - OOAD CSCI 4/5448 - CU Boulder) </h3>
 <h3>JAVA version: 13</h3>
 <h3> Assumptions and implementations :</h3>
 We have used Item class. Classes Music , Players , Instruments, Clothing,Accessories
