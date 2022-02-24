@@ -27,6 +27,7 @@ public class Store implements Logger, Subject {
         clerksTrackerData.add(new Clerk("Velma",.05, this,haphazardTuning));
         clerksTrackerData.add(new Clerk("Shaggy", .20, this,electronicTuning));
         clerksTrackerData.add(new Clerk("Daphne", .30,this ,manualTuning));
+        this.registerObserver(new Clerk("observer", 0.5, this, haphazardTuning));
     }
 
     void newClerks(){
@@ -60,6 +61,7 @@ public class Store implements Logger, Subject {
     Clerk getValidClerk() {
         // pick a random clerk
         Clerk clerk = clerks.get(Utility.rndFromRange(0,clerks.size()-1));
+
         // there is a 10% chance that the clerk might be sick
         if(Utility.rnd() < 0.1){
             out(clerk.name + " is sick today");
@@ -94,6 +96,7 @@ public class Store implements Logger, Subject {
         out("Store is closed today, day "+day);
     }
 
+    //Observer Design Pattern functions
     public void registerObserver(Observer o) {
         observers.add(o);
     }

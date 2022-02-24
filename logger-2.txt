@@ -1,168 +1,22 @@
 Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
-Daphne arrives at store.
 Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Number of items added to inventory is 0
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Daphne checks: $1,160.20 in register.
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
-The total purchase price value of inventory items is $1,428.00
+Daphne checks: $1,225.40 in register.
+Number of items in inventory is 49
+The total purchase price value of inventory items is $1,238.00
 The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-The total number of items damages is: 0
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 5
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
-Number of items in inventory is 6
 Number of items in inventory is 6
 Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 7
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 49
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 50
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 51
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Number of items in inventory is 52
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
-Daphne clerk has left the store
+Number of items in inventory is 8
+Number of items in inventory is 9
+Number of items in inventory is 10
+Number of items in inventory is 11
+Number of items in inventory is 12
+Number of items in inventory is 13
+Number of items in inventory is 14
+Number of items in inventory is 15
+Number of items in inventory is 16
+Number of items in inventory is 38
+Number of items in inventory is 39
+Number of items in inventory is 40
+Number of items in inventory is 41
 Daphne clerk has left the store

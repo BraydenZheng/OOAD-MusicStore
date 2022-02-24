@@ -1,3 +1,4 @@
+//Observer in observer design pattern
 package com.OOAD;
 
 import java.util.ArrayList;

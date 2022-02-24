@@ -25,7 +25,6 @@ class Clerk extends Staff implements Logger, Observer {
          this.itemsPurchased = 0;
          this.itemsDamaged = 0;
          this.tuneAlgorithm = tuneAlgorithm;
-         store.registerObserver(this);
     }
 
     // code taken from stack overflow

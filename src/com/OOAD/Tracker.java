@@ -1,3 +1,6 @@
+//Tracker class used to generate tracker.txt
+//OBSERVER Design Pattern
+
 package com.OOAD;
 
 import java.io.IOException;

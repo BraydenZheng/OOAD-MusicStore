@@ -1,3 +1,5 @@
+//Log class used to generate logger text files, part of Observer Design pattern
+
 package com.OOAD;
 
 import java.io.FileNotFoundException;
@@ -17,7 +19,6 @@ public class Log implements Observer {
         } catch (IOException e) {
             //do nothing
         }
-
     }
 
     private void createFile() throws IOException {
