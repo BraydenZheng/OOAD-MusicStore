@@ -12,7 +12,13 @@ implements buy and sell methods as per the requirements and in the UML diagram.
 doing the following in order- checkRegister , doInventory, openStore and then print the itemsLeft, the items sold and the price, 
 the final count of money in the cashRegister and the money added to register from goToBank action.
 
+UML change
 
 Observer Design Pattern Implementation: 
 We approached the implementation by creating Subject and Observer interfaces. Log class is used to generate the text files and tracker class is used to generate the tracker.txt. Tracker and Log both implements the observer interface and overrides the update function. Log object is created in Store and is used to notify observers.
-<br><br>
+the final count of money in the cashRegister and the money added to register from goToBank action. <br><br>
+Strategy pattern : 
+We have used strategy pattern to implement unique tuning algorithm to a clerk when instantiated. For this we have used an abstract class called Tune which contains the tuningTo method and a context class called TuneContext where tune and item objects are instantiated and set and the tuningTo method is called. haphazardTuning , electronicTuning , manualTuning extend the Tuning class and modify tuning algorithm as per the questions. During the doInventory step , the tuning algorithm is set. <br>
+
+Decorator pattern: We add comboSell method to do a chain of additional selling activity (amps, strings, ...) based on the customer buying. Also, we add a new class called AccessoriesDecorator that extend accessories, all original accessories
+
