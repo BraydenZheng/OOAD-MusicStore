@@ -44,9 +44,22 @@ public class Store implements Logger, Subject {
     void openToday(int day) {
 
         // new log object
-        log = new Log(day);
-        track = new Tracker(day);
-        today = day;
+        log = Log.getLogInstance();
+        log.setDay(day);
+        try {
+            log.createFile();
+        } catch (Exception e) {
+            //file creation exception
+        }
+
+        track = Tracker.getTrackInstance();
+        track.setDay(day);
+        try {
+            track.createFile();
+        } catch (Exception e) {
+            //file creation exception
+        }
+
         out("Store opens today, day "+day);
         activeClerk = getValidClerk();
         out(activeClerk.name + " is working today.");

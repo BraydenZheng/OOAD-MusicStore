@@ -11,19 +11,25 @@ public class Log implements Observer {
     private int day;
     private PrintWriter outFile;
     private FileWriter fw;
+    private static Log uniqueInstance;
 
-    public Log(int today) {
-        day = today;
-        try {
-            createFile();
-        } catch (IOException e) {
-            //do nothing
-        }
+    private Log() {
     }
 
-    private void createFile() throws IOException {
-        fw = new FileWriter("logger-" + day + ".txt");
+    public void setDay(int today) {
+        this.day = today;
+    }
+
+    public void createFile() throws IOException {
+        fw = new FileWriter("logger-" + this.day + ".txt");
         outFile = new PrintWriter(fw);
+    }
+
+    public static synchronized Log getLogInstance() {
+        if(uniqueInstance == null) {
+            uniqueInstance = new Log();
+        }
+        return uniqueInstance;
     }
 
     @Override

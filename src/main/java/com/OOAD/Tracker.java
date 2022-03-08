@@ -12,21 +12,22 @@ public class Tracker implements Observer{
     private int day;
     private PrintWriter outFile;
     private FileWriter fw;
+    private static Tracker uniqueInstance = new Tracker();
 
-
-    public Tracker(int day) {
-        this.day = day;
-
-        try {
-            createFile();
-        } catch (IOException e) {
-            //do nothing
-        }
+    private Tracker() {
     }
 
-    private void createFile() throws IOException {
+    public void setDay(int today) {
+        this.day = today;
+    }
+
+    public void createFile() throws IOException {
         fw = new FileWriter("tracker.txt", true);
         outFile = new PrintWriter(fw);
+    }
+
+    public static synchronized Tracker getTrackInstance() {
+        return uniqueInstance;
     }
 
     @Override
