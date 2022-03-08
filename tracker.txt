@@ -516,3 +516,185 @@ Clerk      Items Sold      Items Purchased     Item Damaged
 Velma              26             26            0
 Shaggy              21             14            2
 Daphne              47             21            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             1            0
+Shaggy              0             0            0
+Daphne              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             1            0
+Shaggy              9             3            1
+Daphne              0             0            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             1            0
+Shaggy              15             5            1
+Daphne              0             0            0
+
+
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             2            0
+Shaggy              15             5            1
+Daphne              0             0            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            0
+Shaggy              15             5            1
+Daphne              0             0            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            0
+Shaggy              15             5            1
+Daphne              5             1            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            0
+Shaggy              15             5            1
+Daphne              10             3            0
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            0
+Shaggy              20             7            1
+Daphne              10             3            0
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            0
+Shaggy              20             7            1
+Daphne              12             4            1
+
+
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             7            0
+Shaggy              20             7            1
+Daphne              12             4            1
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             7            0
+Shaggy              20             7            1
+Daphne              16             7            2
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             7            0
+Shaggy              20             7            1
+Daphne              24             8            3
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             7            0
+Shaggy              20             7            1
+Daphne              25             11            3
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             10            0
+Shaggy              20             7            1
+Daphne              25             11            3
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             14            0
+Shaggy              20             7            1
+Daphne              25             11            3
+
+
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             14            0
+Shaggy              20             7            1
+Daphne              29             12            4
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              20             7            1
+Daphne              29             12            4
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              20             7            1
+Daphne              33             16            4
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              20             7            1
+Daphne              34             18            4
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              24             11            1
+Daphne              34             18            4
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              24             11            1
+Daphne              36             21            4
+
+
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              26             14            1
+Daphne              36             21            4
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              27             18            1
+Daphne              36             21            4
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             16            0
+Shaggy              27             18            1
+Daphne              39             23            5
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              38             17            0
+Shaggy              27             18            1
+Daphne              39             23            5
+
+
+Tracker: 30
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              41             18            0
+Shaggy              27             18            1
+Daphne              39             23            5
