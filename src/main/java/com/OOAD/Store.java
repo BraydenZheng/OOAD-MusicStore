@@ -75,6 +75,7 @@ public class Store implements Logger, Subject {
         activeClerk.checkRegister();
         activeClerk.doInventory();
         activeClerk.openTheStore();
+        activeClerk.guitarClerk();
         activeClerk.cleanTheStore();
         activeClerk.leaveTheStore();
     }

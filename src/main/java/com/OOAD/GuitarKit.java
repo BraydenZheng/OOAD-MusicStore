@@ -3,8 +3,8 @@ package com.OOAD;
 abstract class GuitarKit {
 
     enum Category { A,B,C}
-    GuitarKit( Category bridge, Category knobSet, Category covers,
-                     Category neck, Category pickguard, Category pickup)
+    GuitarKit(Clerk.GuitarParts bridge, Clerk.GuitarParts knobSet, Clerk.GuitarParts covers,
+              Clerk.GuitarParts neck, Clerk.GuitarParts pickguard, Clerk.GuitarParts pickup)
     {
         this.bridge = bridge;
         this.knobSet = knobSet;
@@ -14,58 +14,58 @@ abstract class GuitarKit {
         this.pickup = pickup;
     }
     abstract void createGuitarKit();
-    Category bridge = null;
-    Category knobSet = null;
-    Category covers = null;
-    Category neck = null;
-    Category pickguard = null;
-    Category pickup = null;
+    Clerk.GuitarParts bridge = null;
+    Clerk.GuitarParts knobSet = null;
+    Clerk.GuitarParts covers = null;
+    Clerk.GuitarParts neck = null;
+    Clerk.GuitarParts pickguard = null;
+    Clerk.GuitarParts pickup = null;
 
-    public Category getBridge() {
+    public Clerk.GuitarParts getBridge() {
         return bridge;
     }
 
-    public void setBridge(Category bridge) {
+    public void setBridge(Clerk.GuitarParts bridge) {
         this.bridge = bridge;
     }
 
-    public Category getKnobSet() {
+    public Clerk.GuitarParts getKnobSet() {
         return knobSet;
     }
 
-    public void setKnobSet(Category knobSet) {
+    public void setKnobSet(Clerk.GuitarParts knobSet) {
         this.knobSet = knobSet;
     }
 
-    public Category getCovers() {
+    public Clerk.GuitarParts getCovers() {
         return covers;
     }
 
-    public void setCovers(Category covers) {
+    public void setCovers(Clerk.GuitarParts covers) {
         this.covers = covers;
     }
 
-    public Category getNeck() {
+    public Clerk.GuitarParts getNeck() {
         return neck;
     }
 
-    public void setNeck(Category neck) {
+    public void setNeck(Clerk.GuitarParts neck) {
         this.neck = neck;
     }
 
-    public Category getPickguard() {
+    public Clerk.GuitarParts getPickguard() {
         return pickguard;
     }
 
-    public void setPickguard(Category pickguard) {
+    public void setPickguard(Clerk.GuitarParts pickguard) {
         this.pickguard = pickguard;
     }
 
-    public Category getPickup() {
+    public Clerk.GuitarParts getPickup() {
         return pickup;
     }
 
-    public void setPickup(Category pickup) {
+    public void setPickup(Clerk.GuitarParts pickup) {
         this.pickup = pickup;
     }
 

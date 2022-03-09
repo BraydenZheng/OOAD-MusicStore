@@ -8,7 +8,7 @@ import java.util.Random;
  * @create 3/8/22 4:15 PM
  * @Description
  */
-public class Clerk extends Staff implements Logger, Observer {
+public abstract class Clerk extends Staff implements Logger, Observer {
 	int daysWorked;
 	double damageChance;    // Velma = .05, Shaggy = .20
 	Store store;
@@ -16,6 +16,12 @@ public class Clerk extends Staff implements Logger, Observer {
 	int itemsSold;
 	int itemsPurchased;
 	int itemsDamaged;
+	Category rndVar1;
+	Category rndVar2;
+	Category rndVar3;
+	GuitarParts rndPart1;
+	GuitarParts rndPart2;
+	GuitarParts rndPart3;
 
 	Clerk(String name, double damageChance, Store store, Tune tuneAlgorithm) {
 		this.name = name;
@@ -290,6 +296,22 @@ public class Clerk extends Staff implements Logger, Observer {
 		return (double) Utility.rndFromRange(lowPrice,highPrice);
 	}
 
+	enum Category { A,B,C}
+	enum GuitarParts {BRIDGE,KNOBSET,COVERS,NECK,PICKUPS,PICKGUARDS}
+	void guitarClerk(){
+		rndVar1 = Utility.randomEnum(Category.class);
+		rndVar2 = Utility.randomEnum(Category.class);
+		rndVar3 = Utility.randomEnum(Category.class);
+		rndPart1 = Utility.randomEnum(GuitarParts.class);
+		rndPart2 = Utility.randomEnum(GuitarParts.class);
+		rndPart3 = Utility.randomEnum(GuitarParts.class);
+
+		GuitarKit curr = GuitarKitFactory.createGuitarKit(rndVar1,rndVar2,rndVar3,rndPart1,rndPart2,rndPart3);
+
+
+	}
+
+
 
 	void cleanTheStore() {
 		out(this.name + " is cleaning up the store.");
@@ -333,4 +355,6 @@ public class Clerk extends Staff implements Logger, Observer {
 
 		store.notifyChanges(this.name + " clerk has left the store");
 	}
+
+
 }
