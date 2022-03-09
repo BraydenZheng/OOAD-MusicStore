@@ -702,7 +702,651 @@ Daphne              39             23            5
 
 Tracker: 1
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             1            0
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              7             4            1
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              5             3            0
+Daphne              7             4            1
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              13             7            0
+Daphne              7             4            1
+
+
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              15             9            0
+Daphne              7             4            1
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              15             9            0
+Daphne              9             6            2
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              21             12            0
+Daphne              9             6            2
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              21             12            0
+Daphne              12             9            2
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              21             12            0
+Daphne              13             10            2
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              1             4            0
+Shaggy              21             12            0
+Daphne              13             10            2
+
+
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             6            0
+Shaggy              21             12            0
+Daphne              13             10            2
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             6            0
+Shaggy              21             12            0
+Daphne              18             12            2
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             6            0
+Shaggy              21             12            0
+Daphne              23             16            2
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             6            0
+Shaggy              21             12            0
+Daphne              28             17            2
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             6            0
+Shaggy              25             14            0
+Daphne              28             17            2
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             6            0
+Shaggy              29             14            0
+Daphne              28             17            2
+
+
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             9            0
+Shaggy              29             14            0
+Daphne              28             17            2
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             9            0
+Shaggy              33             17            1
+Daphne              28             17            2
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             9            0
+Shaggy              36             18            2
+Daphne              28             17            2
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              36             18            2
+Daphne              28             17            2
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              39             22            2
+Daphne              28             17            2
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              39             22            2
+Daphne              30             18            2
+
+
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              39             22            2
+Daphne              32             20            2
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              39             22            2
+Daphne              33             23            2
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              40             24            2
+Daphne              33             23            2
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              43             26            2
+Daphne              33             23            2
+
+
+Tracker: 30
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              44             28            3
+Daphne              33             23            2
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             2            0
+Shaggy              0             0            0
+Daphne              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             2            0
+Shaggy              11             3            0
+Daphne              0             0            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             3            1
+Shaggy              11             3            0
+Daphne              0             0            0
+
+
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             3            1
+Shaggy              21             7            0
+Daphne              0             0            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             3            1
+Shaggy              24             9            0
+Daphne              0             0            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             6            1
+Shaggy              24             9            0
+Daphne              0             0            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             6            1
+Shaggy              28             11            0
+Daphne              0             0            0
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             6            1
+Shaggy              33             13            1
+Daphne              0             0            0
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             6            1
+Shaggy              35             14            1
+Daphne              0             0            0
+
+
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             6            1
+Shaggy              35             14            1
+Daphne              6             2            0
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             10            1
+Shaggy              35             14            1
+Daphne              6             2            0
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             12            1
+Shaggy              35             14            1
+Daphne              6             2            0
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             12            1
+Shaggy              35             14            1
+Daphne              9             5            0
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             13            1
+Shaggy              35             14            1
+Daphne              9             5            0
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             13            1
+Shaggy              39             17            1
+Daphne              9             5            0
+
+
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             15            1
+Shaggy              39             17            1
+Daphne              9             5            0
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             15            1
+Shaggy              39             17            1
+Daphne              12             8            0
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              19             17            1
+Shaggy              39             17            1
+Daphne              12             8            0
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             21            1
+Shaggy              39             17            1
+Daphne              12             8            0
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             24            1
+Shaggy              39             17            1
+Daphne              12             8            0
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             24            1
+Shaggy              39             17            1
+Daphne              15             11            0
+
+
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             24            1
+Shaggy              39             17            1
+Daphne              16             14            0
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             24            1
+Shaggy              43             18            1
+Daphne              16             14            0
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             24            1
+Shaggy              43             18            1
+Daphne              17             16            0
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             24            1
+Shaggy              49             21            1
+Daphne              17             16            0
+
+
+Tracker: 30
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             24            1
+Shaggy              51             24            1
+Daphne              17             16            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              4             4            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              13             7            1
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              18             8            2
+
+
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              9             1            1
+Daphne              18             8            2
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              14             3            1
+Daphne              18             8            2
+
+
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              18             7            1
+Daphne              18             8            2
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              20             9            1
+Daphne              18             8            2
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             2            1
+Shaggy              20             9            1
+Daphne              18             8            2
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             2            1
+Shaggy              20             9            1
+Daphne              21             10            2
+
+
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              6             6            1
+Shaggy              20             9            1
+Daphne              21             10            2
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              6             6            1
+Shaggy              20             9            1
+Daphne              21             14            2
+
+
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              6             6            1
+Shaggy              22             12            2
+Daphne              21             14            2
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              6             6            1
+Shaggy              22             12            2
+Daphne              24             17            2
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              6             6            1
+Shaggy              22             12            2
+Daphne              26             19            2
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             8            1
+Shaggy              22             12            2
+Daphne              26             19            2
+
+
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             8            1
+Shaggy              25             13            2
+Daphne              26             19            2
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             8            1
+Shaggy              28             15            2
+Daphne              26             19            2
+
+
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             8            1
+Shaggy              28             15            2
+Daphne              27             20            3
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             8            1
+Shaggy              28             15            2
+Daphne              29             24            3
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             11            1
+Shaggy              28             15            2
+Daphne              29             24            3
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             13            1
+Shaggy              28             15            2
+Daphne              29             24            3
+
+
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             16            1
+Shaggy              28             15            2
+Daphne              29             24            3
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             16            2
+Shaggy              28             15            2
+Daphne              29             24            3
+
+
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             16            2
+Shaggy              28             15            2
+Daphne              32             25            3
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             16            2
+Shaggy              31             16            2
+Daphne              32             25            3
+
+
+Tracker: 30
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             19            2
+Shaggy              31             16            2
+Daphne              32             25            3
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              0             0            0
+Daphne              0             0            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              3             2            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              3             1            0
+Daphne              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              6             2            0
+Daphne              3             2            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              3             1            0
+Daphne              7             4            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             2            0
+Shaggy              6             2            0
+Daphne              3             2            0
+
+
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            0
+Shaggy              6             2            0
+Daphne              3             2            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              6             2            0
+Daphne              7             4            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              19             7            0
+Shaggy              6             2            0
+Daphne              3             2            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             6            0
+Shaggy              6             2            0
+Daphne              7             4            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             9            0
+Shaggy              6             2            0
+Daphne              3             2            0
+
+
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             6            0
+Shaggy              6             2            0
+Daphne              15             8            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             6            0
+Shaggy              7             4            1
+Daphne              15             8            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             11            0
+Shaggy              6             2            0
+Daphne              3             2            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             4            0
 Shaggy              0             0            0
 Daphne              0             0            0
 Simon              0             0            0
@@ -712,8 +1356,8 @@ Sid              0             0            0
 
 Tracker: 1
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             1            0
-Shaggy              0             0            0
+Velma              0             0            0
+Shaggy              4             2            0
 Daphne              0             0            0
 Simon              0             0            0
 Mark              0             0            0
@@ -722,8 +1366,8 @@ Sid              0             0            0
 
 Tracker: 2
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             1            0
-Shaggy              5             4            0
+Velma              8             4            0
+Shaggy              2             3            0
 Daphne              0             0            0
 Simon              0             0            0
 Mark              0             0            0
@@ -732,9 +1376,9 @@ Sid              0             0            0
 
 Tracker: 2
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             1            0
-Shaggy              0             0            0
-Daphne              8             3            0
+Velma              0             0            0
+Shaggy              4             2            0
+Daphne              5             4            0
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -742,9 +1386,9 @@ Sid              0             0            0
 
 Tracker: 3
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             1            0
-Shaggy              11             7            0
-Daphne              0             0            0
+Velma              8             4            0
+Shaggy              2             3            0
+Daphne              3             2            0
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -752,9 +1396,9 @@ Sid              0             0            0
 
 Tracker: 3
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             1            0
-Shaggy              3             1            1
-Daphne              8             3            0
+Velma              0             0            0
+Shaggy              8             3            0
+Daphne              5             4            0
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -762,9 +1406,9 @@ Sid              0             0            0
 
 Tracker: 4
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             1            0
-Shaggy              3             1            1
-Daphne              12             4            1
+Velma              0             0            0
+Shaggy              10             5            0
+Daphne              5             4            0
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -772,9 +1416,9 @@ Sid              0             0            0
 
 Tracker: 5
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             1            0
+Velma              8             4            0
 Shaggy              11             7            0
-Daphne              4             4            0
+Daphne              3             2            0
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -782,9 +1426,9 @@ Sid              0             0            0
 
 Tracker: 5
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              12             4            1
-Shaggy              3             1            1
-Daphne              12             4            1
+Velma              0             0            0
+Shaggy              10             5            0
+Daphne              11             8            0
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -792,9 +1436,9 @@ Sid              0             0            0
 
 Tracker: 6
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             1            0
-Shaggy              16             7            0
-Daphne              4             4            0
+Velma              8             4            0
+Shaggy              11             7            0
+Daphne              11             2            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -802,9 +1446,9 @@ Sid              0             0            0
 
 Tracker: 6
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              12             4            1
-Shaggy              3             1            1
-Daphne              18             6            1
+Velma              0             0            0
+Shaggy              10             5            0
+Daphne              14             11            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -812,9 +1456,9 @@ Sid              0             0            0
 
 Tracker: 7
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             1            0
-Shaggy              16             7            0
-Daphne              8             5            1
+Velma              8             4            0
+Shaggy              14             10            0
+Daphne              11             2            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -822,9 +1466,9 @@ Sid              0             0            0
 
 Tracker: 8
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             1            0
-Shaggy              16             7            0
-Daphne              14             7            2
+Velma              8             4            0
+Shaggy              14             10            0
+Daphne              13             4            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -832,9 +1476,9 @@ Sid              0             0            0
 
 Tracker: 8
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              12             4            1
-Shaggy              5             5            1
-Daphne              18             6            1
+Velma              4             3            0
+Shaggy              10             5            0
+Daphne              14             11            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -842,9 +1486,9 @@ Sid              0             0            0
 
 Tracker: 9
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             2            0
-Shaggy              16             7            0
-Daphne              14             7            2
+Velma              8             4            0
+Shaggy              14             10            0
+Daphne              17             7            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -852,9 +1496,9 @@ Sid              0             0            0
 
 Tracker: 9
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              12             4            1
-Shaggy              5             5            1
-Daphne              20             9            1
+Velma              4             3            0
+Shaggy              16             9            0
+Daphne              14             11            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -862,9 +1506,9 @@ Sid              0             0            0
 
 Tracker: 10
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             2            0
-Shaggy              16             7            0
-Daphne              20             8            2
+Velma              8             4            0
+Shaggy              18             13            0
+Daphne              17             7            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -872,9 +1516,9 @@ Sid              0             0            0
 
 Tracker: 10
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              12             4            1
-Shaggy              5             5            1
-Daphne              24             11            2
+Velma              9             5            0
+Shaggy              16             9            0
+Daphne              14             11            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -882,9 +1526,9 @@ Sid              0             0            0
 
 Tracker: 11
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              12             4            1
-Shaggy              8             7            2
-Daphne              24             11            2
+Velma              9             5            0
+Shaggy              16             9            0
+Daphne              16             14            2
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -892,9 +1536,9 @@ Sid              0             0            0
 
 Tracker: 12
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             2            0
-Shaggy              21             10            0
-Daphne              20             8            2
+Velma              8             4            0
+Shaggy              22             13            0
+Daphne              17             7            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -902,9 +1546,9 @@ Sid              0             0            0
 
 Tracker: 12
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             7            1
-Shaggy              8             7            2
-Daphne              24             11            2
+Velma              9             5            0
+Shaggy              23             12            0
+Daphne              16             14            2
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -912,9 +1556,9 @@ Sid              0             0            0
 
 Tracker: 13
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             2            0
-Shaggy              24             12            0
-Daphne              20             8            2
+Velma              14             5            0
+Shaggy              22             13            0
+Daphne              17             7            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -922,9 +1566,9 @@ Sid              0             0            0
 
 Tracker: 13
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             7            1
-Shaggy              8             7            2
-Daphne              24             13            2
+Velma              9             5            0
+Shaggy              25             14            1
+Daphne              16             14            2
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -932,9 +1576,9 @@ Sid              0             0            0
 
 Tracker: 14
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             2            0
-Shaggy              24             12            0
-Daphne              22             9            2
+Velma              18             6            0
+Shaggy              22             13            0
+Daphne              17             7            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -942,9 +1586,9 @@ Sid              0             0            0
 
 Tracker: 15
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              10             2            0
-Shaggy              27             14            0
-Daphne              22             9            2
+Velma              18             6            0
+Shaggy              22             13            0
+Daphne              19             9            1
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
@@ -952,373 +1596,1769 @@ Sid              0             0            0
 
 Tracker: 15
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             7            1
-Shaggy              8             7            2
-Daphne              29             16            2
+Velma              12             8            1
+Shaggy              25             14            1
+Daphne              16             14            2
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
-
-
-Tracker: 1
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              0             0            0
-Shaggy              0             0            0
-Daphne              8             2            0
-
-
-Tracker: 2
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              0             0            0
-Daphne              8             2            0
-
-
-Tracker: 3
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              0             0            0
-Daphne              13             5            0
-
-
-Tracker: 4
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              6             3            0
-Daphne              13             5            0
-
-
-Tracker: 5
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              6             3            0
-Daphne              15             6            1
-
-
-Tracker: 6
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              10             5            0
-Daphne              15             6            1
-
-
-Tracker: 8
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              10             5            0
-Daphne              18             8            1
-
-
-Tracker: 9
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              10             5            0
-Daphne              25             11            1
-
-
-Tracker: 10
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              14             5            0
-Daphne              25             11            1
-
-
-Tracker: 11
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              16             7            0
-Daphne              25             11            1
-
-
-Tracker: 12
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              19             10            0
-Daphne              25             11            1
-
-
-Tracker: 13
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              5             3            0
-Shaggy              23             11            1
-Daphne              25             11            1
-
-
-Tracker: 15
-Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              8             5            0
-Shaggy              23             11            1
-Daphne              25             11            1
 
 
 Tracker: 16
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              8             5            0
-Shaggy              23             11            1
-Daphne              27             12            1
+Velma              18             6            0
+Shaggy              27             15            0
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             8            1
+Shaggy              25             14            1
+Daphne              18             16            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 17
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              8             5            0
-Shaggy              23             11            1
-Daphne              29             16            1
+Velma              22             7            0
+Shaggy              27             15            0
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            1
+Shaggy              25             14            1
+Daphne              18             16            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 18
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              8             5            0
-Shaggy              23             11            1
-Daphne              33             20            2
+Velma              12             9            1
+Shaggy              25             14            1
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 19
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              23             11            1
-Daphne              33             20            2
+Velma              26             10            0
+Shaggy              27             15            0
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            1
+Shaggy              26             16            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 20
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              23             11            1
-Daphne              33             22            2
+Velma              26             10            0
+Shaggy              31             18            0
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            1
+Shaggy              27             17            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             10            0
+Shaggy              35             19            1
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 22
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              24             13            1
-Daphne              33             22            2
+Velma              26             10            0
+Shaggy              35             23            1
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            1
+Shaggy              28             21            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 23
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              24             13            1
-Daphne              36             23            2
+Velma              26             10            0
+Shaggy              37             24            1
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             12            1
+Shaggy              28             21            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 24
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              24             13            1
-Daphne              37             24            2
+Velma              28             12            0
+Shaggy              37             24            1
+Daphne              19             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             15            1
+Shaggy              28             21            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 25
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              24             13            1
-Daphne              42             26            3
+Velma              17             15            1
+Shaggy              31             22            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 26
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              27             15            2
-Daphne              42             26            3
+Velma              28             12            0
+Shaggy              37             24            1
+Daphne              22             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             15            1
+Shaggy              36             24            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 27
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              27             15            2
-Daphne              43             29            3
+Velma              28             12            0
+Shaggy              37             25            1
+Daphne              22             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             15            1
+Shaggy              38             25            2
+Daphne              22             17            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             12            0
+Shaggy              37             25            1
+Daphne              22             14            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 29
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              29             18            2
-Daphne              43             29            3
+Velma              28             12            0
+Shaggy              38             26            1
+Daphne              22             14            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
-Tracker: 30
+Tracker: 29
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              11             6            0
-Shaggy              31             19            2
-Daphne              43             29            3
+Velma              17             15            1
+Shaggy              38             25            2
+Daphne              26             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 1
 Clerk      Items Sold      Items Purchased     Item Damaged
 Velma              0             0            0
-Shaggy              2             1            0
+Shaggy              1             4            0
 Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             3            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             2            0
+Shaggy              1             4            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              8             6            1
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             5            0
+Shaggy              1             4            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             9            1
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             9            1
+Shaggy              4             3            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             5            0
+Shaggy              1             4            0
+Daphne              4             4            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             10            1
+Shaggy              4             3            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             7            0
+Shaggy              1             4            0
+Daphne              4             4            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             10            1
+Shaggy              11             5            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             7            0
+Shaggy              1             4            0
+Daphne              8             4            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             7            0
+Shaggy              1             4            0
+Daphne              12             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             10            1
+Shaggy              11             5            0
+Daphne              3             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             9            0
+Shaggy              1             4            0
+Daphne              12             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             12            1
+Shaggy              11             5            0
+Daphne              3             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             9            0
+Shaggy              1             4            0
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             12            1
+Shaggy              11             5            0
+Daphne              5             6            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             12            1
+Shaggy              12             7            1
+Daphne              5             6            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             9            0
+Shaggy              5             5            0
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             12            1
+Shaggy              17             8            1
+Daphne              5             6            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             12            0
+Shaggy              5             5            0
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             12            1
+Shaggy              17             8            1
+Daphne              12             7            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             12            0
+Shaggy              11             7            1
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             15            0
+Shaggy              11             7            1
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             12            1
+Shaggy              17             8            1
+Daphne              17             10            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             15            0
+Shaggy              11             7            1
+Daphne              17             9            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             12            1
+Shaggy              20             11            1
+Daphne              17             10            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              24             17            0
+Shaggy              11             7            1
+Daphne              17             9            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             13            1
+Shaggy              20             11            1
+Daphne              17             10            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             13            1
+Shaggy              24             15            2
+Daphne              17             10            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              24             17            0
+Shaggy              11             7            1
+Daphne              22             10            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             15            1
+Shaggy              24             15            2
+Daphne              17             10            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              24             17            0
+Shaggy              11             7            1
+Daphne              28             12            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              24             16            1
+Shaggy              24             15            2
+Daphne              17             10            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             21            0
+Shaggy              11             7            1
+Daphne              28             12            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             21            0
+Shaggy              11             7            1
+Daphne              31             14            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             20            1
+Shaggy              24             15            2
+Daphne              17             10            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             21            0
+Shaggy              11             7            1
+Daphne              34             17            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             20            1
+Shaggy              24             15            2
+Daphne              21             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             23            0
+Shaggy              11             7            1
+Daphne              34             17            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             20            1
+Shaggy              24             15            2
+Daphne              23             14            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             20            1
+Shaggy              27             18            3
+Daphne              23             14            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             26            0
+Shaggy              11             7            1
+Daphne              34             17            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             21            1
+Shaggy              27             18            3
+Daphne              23             14            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             26            0
+Shaggy              12             8            1
+Daphne              34             17            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             21            1
+Shaggy              27             18            3
+Daphne              25             15            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              34             28            0
+Shaggy              12             8            1
+Daphne              34             17            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              38             30            0
+Shaggy              12             8            1
+Daphne              34             17            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             21            1
+Shaggy              27             18            3
+Daphne              30             19            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              11             4            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              2             2            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 2
 Clerk      Items Sold      Items Purchased     Item Damaged
 Velma              0             0            0
-Shaggy              11             2            0
+Shaggy              19             5            0
 Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              2             2            0
+Daphne              4             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 3
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              2             3            0
-Shaggy              11             2            0
+Velma              0             0            0
+Shaggy              24             9            0
 Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              7             4            0
+Daphne              4             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 4
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              6             7            0
-Shaggy              11             2            0
-Daphne              0             0            0
+Velma              0             0            0
+Shaggy              7             4            0
+Daphne              10             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 5
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              13             9            0
-Shaggy              11             2            0
+Velma              3             3            0
+Shaggy              24             9            0
 Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             2            1
+Shaggy              7             4            0
+Daphne              10             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 6
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              13             9            0
-Shaggy              12             4            1
-Daphne              0             0            0
+Velma              3             3            0
+Shaggy              24             9            0
+Daphne              7             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             2            1
+Shaggy              12             8            1
+Daphne              10             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              3             3            0
+Shaggy              27             10            0
+Daphne              7             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 8
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             12            0
-Shaggy              12             4            1
-Daphne              0             0            0
+Velma              3             3            0
+Shaggy              27             10            0
+Daphne              9             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             2            1
+Shaggy              12             8            1
+Daphne              13             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 9
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             12            0
-Shaggy              14             8            1
-Daphne              0             0            0
+Velma              8             6            0
+Shaggy              27             10            0
+Daphne              9             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             2            1
+Shaggy              12             8            1
+Daphne              13             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 10
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             12            0
-Shaggy              14             8            1
-Daphne              5             3            0
+Velma              8             6            0
+Shaggy              30             12            0
+Daphne              9             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             2            1
+Shaggy              16             8            2
+Daphne              13             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 11
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             12            0
-Shaggy              14             8            1
-Daphne              7             7            1
+Velma              10             2            1
+Shaggy              22             9            2
+Daphne              13             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 12
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              15             12            0
-Shaggy              16             11            1
-Daphne              7             7            1
+Velma              12             9            0
+Shaggy              30             12            0
+Daphne              9             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             2            1
+Shaggy              22             9            2
+Daphne              15             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              30             12            0
+Daphne              15             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             2            1
+Shaggy              22             9            2
+Daphne              17             8            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              30             12            0
+Daphne              17             5            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              30             12            0
+Daphne              20             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             2            1
+Shaggy              26             12            3
+Daphne              17             8            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              30             12            0
+Daphne              24             7            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             4            1
+Shaggy              26             12            3
+Daphne              17             8            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             11            0
+Shaggy              30             12            0
+Daphne              24             7            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            1
+Shaggy              26             12            3
+Daphne              17             8            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            1
+Shaggy              26             12            3
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             14            0
+Shaggy              30             12            0
+Daphne              24             7            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             5            1
+Shaggy              30             15            3
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             14            0
+Shaggy              30             12            0
+Daphne              24             8            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             7            1
+Shaggy              30             15            3
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             14            0
+Shaggy              32             16            1
+Daphne              24             8            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             14            0
+Shaggy              32             16            1
+Daphne              25             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             7            1
+Shaggy              31             15            3
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             15            0
+Shaggy              32             16            1
+Daphne              25             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             7            1
+Shaggy              32             16            3
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             15            0
+Shaggy              34             17            1
+Daphne              25             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             7            1
+Shaggy              32             16            3
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             9            1
+Shaggy              32             16            3
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             15            0
+Shaggy              34             17            1
+Daphne              27             12            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             9            1
+Shaggy              33             19            4
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             15            0
+Shaggy              34             19            1
+Daphne              27             12            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             13            1
+Shaggy              33             19            4
+Daphne              19             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             15            0
+Shaggy              34             19            1
+Daphne              29             13            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             17            0
+Shaggy              34             19            1
+Daphne              29             13            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             13            1
+Shaggy              33             19            4
+Daphne              19             10            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             2            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              4             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             3            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              4             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             3            0
+Shaggy              0             0            0
+Daphne              3             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              10             3            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              10             3            0
+Daphne              6             1            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            1
+Shaggy              0             0            0
+Daphne              3             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              15             4            0
+Daphne              6             1            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            1
+Shaggy              0             0            0
+Daphne              9             7            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              18             5            0
+Daphne              6             1            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            1
+Shaggy              2             3            1
+Daphne              9             7            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            1
+Shaggy              2             3            1
+Daphne              14             11            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              18             5            0
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            1
+Shaggy              2             3            1
+Daphne              18             13            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             7            0
+Shaggy              18             5            0
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            1
+Shaggy              2             3            1
+Daphne              23             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             10            0
+Shaggy              18             5            0
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 11
 Clerk      Items Sold      Items Purchased     Item Damaged
 Velma              19             12            0
-Shaggy              16             11            1
-Daphne              7             7            1
+Shaggy              18             5            0
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             8            1
+Shaggy              2             3            1
+Daphne              23             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             15            0
+Shaggy              18             5            0
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             9            1
+Shaggy              2             3            1
+Daphne              23             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             16            0
+Shaggy              18             5            0
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             9            1
+Shaggy              2             3            1
+Daphne              28             20            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 15
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              20             15            0
-Shaggy              16             11            1
-Daphne              7             7            1
+Velma              29             11            1
+Shaggy              2             3            1
+Daphne              28             20            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             16            0
+Shaggy              19             5            1
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 16
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              20             15            0
-Shaggy              16             11            1
-Daphne              12             10            2
+Velma              29             11            1
+Shaggy              2             3            1
+Daphne              30             23            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              26             16            0
+Shaggy              21             7            1
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 17
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              20             15            0
-Shaggy              16             11            1
-Daphne              13             13            2
+Velma              29             11            1
+Shaggy              2             3            1
+Daphne              32             27            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             20            0
+Shaggy              21             7            1
+Daphne              8             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 18
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              20             15            0
-Shaggy              16             11            1
-Daphne              15             14            2
+Velma              28             20            0
+Shaggy              21             7            1
+Daphne              11             3            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 19
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              26             18            0
-Shaggy              16             11            1
-Daphne              15             14            2
+Velma              29             11            1
+Shaggy              4             4            2
+Daphne              32             27            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             20            0
+Shaggy              21             7            1
+Daphne              12             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 20
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              26             18            0
-Shaggy              18             14            2
-Daphne              15             14            2
+Velma              32             14            1
+Shaggy              4             4            2
+Daphne              32             27            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             20            0
+Shaggy              24             8            1
+Daphne              12             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              35             16            1
+Shaggy              4             4            2
+Daphne              32             27            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 22
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              26             18            0
-Shaggy              18             14            2
-Daphne              19             16            2
+Velma              35             16            1
+Shaggy              4             4            2
+Daphne              34             30            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             20            0
+Shaggy              29             11            1
+Daphne              12             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 23
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              29             21            0
-Shaggy              18             14            2
-Daphne              19             16            2
+Velma              35             16            1
+Shaggy              4             4            2
+Daphne              36             32            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              32             22            0
+Shaggy              29             11            1
+Daphne              12             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 24
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              31             22            0
-Shaggy              18             14            2
-Daphne              19             16            2
+Velma              39             18            1
+Shaggy              4             4            2
+Daphne              36             32            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              32             22            0
+Shaggy              29             11            1
+Daphne              17             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 25
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              31             22            0
-Shaggy              20             15            2
-Daphne              19             16            2
+Velma              32             22            0
+Shaggy              29             15            2
+Daphne              17             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 26
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              35             25            0
-Shaggy              20             15            2
-Daphne              19             16            2
+Velma              39             18            1
+Shaggy              4             4            2
+Daphne              39             34            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              36             25            0
+Shaggy              29             15            2
+Daphne              17             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 27
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              35             25            0
-Shaggy              20             15            2
-Daphne              22             17            3
+Velma              39             18            1
+Shaggy              7             6            2
+Daphne              39             34            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              37             26            0
+Shaggy              29             15            2
+Daphne              17             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              41             21            1
+Shaggy              7             6            2
+Daphne              39             34            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 29
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              35             25            0
-Shaggy              24             16            2
-Daphne              22             17            3
+Velma              41             21            1
+Shaggy              11             9            2
+Daphne              39             34            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              40             30            0
+Shaggy              29             15            2
+Daphne              17             6            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
 
 
 Tracker: 30
 Clerk      Items Sold      Items Purchased     Item Damaged
-Velma              37             29            0
-Shaggy              24             16            2
-Daphne              22             17            3
+Velma              41             21            1
+Shaggy              11             9            2
+Daphne              39             38            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Tracker: 30
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              40             30            0
+Shaggy              29             15            2
+Daphne              20             7            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0

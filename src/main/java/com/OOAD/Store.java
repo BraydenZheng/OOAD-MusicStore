@@ -1,7 +1,10 @@
 package com.OOAD;
+import com.OOAD.Command.Command;
+
 import java.util.ArrayList;
 
 public class Store implements Logger, Subject {
+    public String name;
     public ArrayList<Clerk> clerks = new ArrayList<Clerk>();
     public Clerk activeClerk;
     public double cashRegister;
@@ -12,8 +15,10 @@ public class Store implements Logger, Subject {
     public Log log;
     public Tracker track;
     public ArrayList<Clerk> clerksTrackerData = new ArrayList<Clerk>();
+    public Command currentCommand;
 
-    Store() {
+    Store(String name) {
+        this.name = name;
         // initialize the store's starting inventory
         inventory = new Inventory();
 
@@ -27,6 +32,9 @@ public class Store implements Logger, Subject {
         clerksTrackerData.add(new Clerk("Velma",.05, this,haphazardTuning));
         clerksTrackerData.add(new Clerk("Shaggy", .20, this,electronicTuning));
         clerksTrackerData.add(new Clerk("Daphne", .30,this ,manualTuning));
+        clerksTrackerData.add(new Clerk("Simon", .40,this ,manualTuning));
+        clerksTrackerData.add(new Clerk("Mark", .25,this ,manualTuning));
+        clerksTrackerData.add(new Clerk("Sid", .22,this ,manualTuning));
         this.registerObserver(new Clerk("observer", 0.5, this, haphazardTuning));
     }
 
@@ -110,14 +118,17 @@ public class Store implements Logger, Subject {
     }
 
     //Observer Design Pattern functions
+    @Override
     public void registerObserver(Observer o) {
         observers.add(o);
     }
 
+    @Override
     public void removeObserver(Observer o) {
         observers.remove(o);
     }
 
+    @Override
     public void notifyObserver(String message) {
         for (Observer observer : observers) {
             log.update(message);
@@ -126,5 +137,13 @@ public class Store implements Logger, Subject {
 
     public void notifyChanges(String message) {
         notifyObserver(message);
+    }
+
+    public void setCommand(Command command) {
+        this.currentCommand = command;
+    }
+
+    public void excuteCommand() {
+        this.currentCommand.excute();
     }
 }
