@@ -55,4 +55,44 @@ public class UnitTest
 		assertEquals(a.name, north);
 	}
 
+	@Test
+	public void TestRegisterObserver() {
+		String north = "northSide";
+		Store s = new Store(north);
+		assertEquals(s.getObserversCount(), 1);
+	}
+
+	@Test
+	public void TestRemoveObserver() {
+		String north = "northSide";
+		Store s = new Store(north);
+		Tune haphazardTuning = new haphazardTuning();
+		s.removeObserver(new Clerk("observer", 0.5, s, haphazardTuning));
+		assertEquals(s.getObserversCount(), 1);
+	}
+
+	@Test
+	public void TestLogInstance() {
+		Log log1, log2;
+		log1 = Log.getLogInstance();
+		log2 = Log.getLogInstance();
+		assertEquals(log1, log2);
+	}
+
+	@Test
+	public void TestTrackerInstance() {
+		Tracker tracker1, tracker2;
+		tracker1 = Tracker.getTrackInstance();
+		tracker2 = Tracker.getTrackInstance();
+		assertEquals(tracker1, tracker2);
+	}
+
+	@Test
+	public void TestSetDay() {
+		Log log;
+		log = Log.getLogInstance();
+		log.setDay(30);
+		assertEquals(log.getDay(), 30);
+	}
+
 }

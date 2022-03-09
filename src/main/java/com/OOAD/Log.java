@@ -20,9 +20,15 @@ public class Log implements Observer {
         this.day = today;
     }
 
-    public void createFile() throws IOException {
+    public int getDay() {
+        return this.day;
+    }
+
+    public void createFile(String storename) throws IOException {
         fw = new FileWriter("logger-" + this.day + ".txt");
         outFile = new PrintWriter(fw);
+        outFile.println("logger of " + storename);
+        outFile.flush();
     }
 
     public static synchronized Log getLogInstance() {

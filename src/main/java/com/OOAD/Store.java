@@ -55,7 +55,7 @@ public class Store implements Logger, Subject {
         log = Log.getLogInstance();
         log.setDay(day);
         try {
-            log.createFile();
+            log.createFile(this.name);
         } catch (Exception e) {
             //file creation exception
         }
@@ -63,7 +63,7 @@ public class Store implements Logger, Subject {
         track = Tracker.getTrackInstance();
         track.setDay(day);
         try {
-            track.createFile();
+            track.createFile(this.name);
         } catch (Exception e) {
             //file creation exception
         }
@@ -145,5 +145,9 @@ public class Store implements Logger, Subject {
 
     public void excuteCommand() {
         this.currentCommand.excute();
+    }
+
+    public int getObserversCount() {
+        return this.observers.size();
     }
 }
