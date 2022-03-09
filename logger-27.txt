@@ -1,21 +1,23 @@
 Velma arrives at store.
 Number of items added to inventory is 0
-Velma checks: $3,591.30 in register.
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-Number of items in inventory is 14
-The total purchase price value of inventory items is $412.40
-The total number of items damages is: 4
-Number of items in inventory is 83
+Velma checks: $3,786.14 in register.
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+Number of items in inventory is 13
+The total purchase price value of inventory items is $309.40
+The total number of items damages is: 5
+Number of items in inventory is 80
 Number of items in inventory is 13
 Number of items in inventory is 14
+Number of items in inventory is 15
+Number of items in inventory is 16
 Velma clerk has left the store
