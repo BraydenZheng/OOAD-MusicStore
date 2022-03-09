@@ -1,21 +1,21 @@
-Velma arrives at store.
+Shaggy arrives at store.
 Number of items added to inventory is 0
-Velma checks: $4,547.16 in register.
-Number of items in inventory is 45
-Number of items in inventory is 45
-Number of items in inventory is 45
-Number of items in inventory is 45
-Number of items in inventory is 45
-The total purchase price value of inventory items is $879.80
-The total number of items damages is: 6
-Number of items in inventory is 97
-Number of items in inventory is 98
-Number of items in inventory is 99
-Number of items in inventory is 100
-Number of items in inventory is 101
-Number of items in inventory is 102
-Number of items in inventory is 103
-Number of items in inventory is 104
-Number of items in inventory is 38
-Number of items in inventory is 38
-Velma clerk has left the store
+Shaggy checks: $3,961.28 in register.
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+Number of items in inventory is 19
+The total purchase price value of inventory items is $396.60
+The total number of items damages is: 3
+Number of items in inventory is 77
+Number of items in inventory is 78
+Number of items in inventory is 79
+Number of items in inventory is 16
+Number of items in inventory is 4
+Shaggy clerk has left the store

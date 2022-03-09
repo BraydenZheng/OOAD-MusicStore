@@ -1,5 +1,6 @@
 package com.OOAD;
 
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Random;
 
@@ -15,6 +16,12 @@ class Clerk extends Staff implements Logger, Observer {
     int itemsSold;
     int itemsPurchased;
     int itemsDamaged;
+    Category rndVar1;
+    Category rndVar2;
+    Category rndVar3;
+    GuitarParts rndPart1;
+    GuitarParts rndPart2;
+    GuitarParts rndPart3;
 
     Clerk(String name, double damageChance, Store store, Tune tuneAlgorithm) {
          this.name = name;
@@ -266,6 +273,21 @@ class Clerk extends Staff implements Logger, Observer {
         store.notifyChanges("Number of items in inventory is " + store.inventory.items.size());
     }
 
+    // Customer wants to buy a customized guitar kit
+    enum Category { A,B,C}
+    enum GuitarParts {BRIDGE,KNOBSET,COVERS,NECK,PICKUPS,PICKGUARDS}
+    void guitarClerk(){
+        rndVar1 = Utility.randomEnum(Category.class);
+        rndVar2 = Utility.randomEnum(Category.class);
+        rndVar3 = Utility.randomEnum(Category.class);
+        rndPart1 = Utility.randomEnum(GuitarParts.class);
+        rndPart2 = Utility.randomEnum(GuitarParts.class);
+        rndPart3 = Utility.randomEnum(GuitarParts.class);
+
+        GuitarKitFactory.createGuitarKit(rndVar1,rndVar2,rndVar3,rndPart1,rndPart2,rndPart3);
+    }
+
+
     void buyItemFromCustomer(Item item, String custName) {
         String itemName = item.itemType.toString().toLowerCase();
         String price = Utility.asDollar(item.purchasePrice);
@@ -331,5 +353,6 @@ class Clerk extends Staff implements Logger, Observer {
         store.track.updateTracker(store.clerksTrackerData);
 
         store.notifyChanges(this.name + " clerk has left the store");
+        guitarClerk();
     }
 }
