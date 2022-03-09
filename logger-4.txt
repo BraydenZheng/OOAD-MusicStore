@@ -1,15 +1,16 @@
-Velma arrives at store.
+Daphne arrives at store.
 Number of items added to inventory is 0
-Velma checks: $1,887.98 in register.
-Number of items in inventory is 40
-Number of items in inventory is 40
-The total purchase price value of inventory items is $1,010.90
-The total number of items damages is: 1
+Daphne checks: $1,674.80 in register.
+Number of items in inventory is 43
+Number of items in inventory is 43
+Number of items in inventory is 43
+The total purchase price value of inventory items is $1,076.80
+The total number of items damages is: 0
+Number of items in inventory is 18
+Number of items in inventory is 19
 Number of items in inventory is 20
 Number of items in inventory is 21
 Number of items in inventory is 22
 Number of items in inventory is 23
-Number of items in inventory is 24
-Number of items in inventory is 35
-Number of items in inventory is 36
-Velma clerk has left the store
+Number of items in inventory is 38
+Daphne clerk has left the store
