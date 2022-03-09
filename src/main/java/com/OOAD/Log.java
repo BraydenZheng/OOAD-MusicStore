@@ -1,4 +1,5 @@
 //Log class used to generate logger text files, part of Observer Design pattern
+//Log class implement's singleton pattern using lazy instantiation
 
 package com.OOAD;
 

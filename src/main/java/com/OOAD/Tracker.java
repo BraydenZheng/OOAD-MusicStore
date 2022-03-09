@@ -1,5 +1,6 @@
 //Tracker class used to generate tracker.txt
 //OBSERVER Design Pattern
+//Tracker class implement's singleton pattern using eager instantiation
 
 package com.OOAD;
 
