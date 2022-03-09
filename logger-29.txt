@@ -1,21 +1,19 @@
 Shaggy arrives at store.
 Number of items added to inventory is 0
-Shaggy checks: $3,961.28 in register.
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-The total purchase price value of inventory items is $396.60
-The total number of items damages is: 3
-Number of items in inventory is 77
-Number of items in inventory is 78
-Number of items in inventory is 79
+Shaggy checks: $3,764.56 in register.
 Number of items in inventory is 16
-Number of items in inventory is 4
+Number of items in inventory is 16
+Number of items in inventory is 16
+Number of items in inventory is 16
+Number of items in inventory is 16
+Number of items in inventory is 16
+Number of items in inventory is 16
+Number of items in inventory is 16
+Number of items in inventory is 16
+The total purchase price value of inventory items is $356.50
+The total number of items damages is: 5
+Number of items in inventory is 17
+Number of items in inventory is 18
+Number of items in inventory is 19
+Number of items in inventory is 20
 Shaggy clerk has left the store

@@ -1,19 +1,17 @@
-Daphne arrives at store.
+Shaggy arrives at store.
 Number of items added to inventory is 0
-Daphne checks: $3,240.96 in register.
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-Number of items in inventory is 25
-The total purchase price value of inventory items is $666.70
-The total number of items damages is: 1
-Number of items in inventory is 54
-Number of items in inventory is 55
-Number of items in inventory is 56
-Number of items in inventory is 57
-Number of items in inventory is 22
-Daphne clerk has left the store
+Shaggy checks: $3,259.10 in register.
+Number of items in inventory is 20
+Number of items in inventory is 20
+Number of items in inventory is 20
+Number of items in inventory is 20
+Number of items in inventory is 20
+Number of items in inventory is 20
+Number of items in inventory is 20
+The total purchase price value of inventory items is $481.10
+The total number of items damages is: 3
+Number of items in inventory is 60
+Number of items in inventory is 61
+Number of items in inventory is 62
+Number of items in inventory is 18
+Shaggy clerk has left the store
