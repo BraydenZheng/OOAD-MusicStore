@@ -1,5 +1,6 @@
 //Tracker class used to generate tracker.txt
 //OBSERVER Design Pattern
+//Tracker class implement's singleton pattern using eager instantiation
 
 package com.OOAD;
 
@@ -21,9 +22,12 @@ public class Tracker implements Observer{
         this.day = today;
     }
 
-    public void createFile() throws IOException {
+    public void createFile(String storename) throws IOException {
         fw = new FileWriter("tracker.txt", true);
         outFile = new PrintWriter(fw);
+        outFile.println('\n');
+        outFile.println("Simulation for " + storename);
+        outFile.flush();
     }
 
     public static synchronized Tracker getTrackInstance() {
@@ -32,7 +36,6 @@ public class Tracker implements Observer{
 
     @Override
     public void updateTracker(ArrayList<Clerk> clerks) {
-        outFile.println('\n');
         outFile.println("Tracker: " + day);
         outFile.println("Clerk      Items Sold      Items Purchased     Item Damaged");
         for (Clerk c : clerks) {
