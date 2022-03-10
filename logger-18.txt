@@ -1,17 +1,17 @@
-Shaggy arrives at store.
+logger of Southside FNMS
+Daphne arrives at store.
 Number of items added to inventory is 0
-Shaggy checks: $3,259.10 in register.
-Number of items in inventory is 20
-Number of items in inventory is 20
-Number of items in inventory is 20
-Number of items in inventory is 20
-Number of items in inventory is 20
-Number of items in inventory is 20
-Number of items in inventory is 20
-The total purchase price value of inventory items is $481.10
+Daphne checks: $3,145.12 in register.
+Number of items in inventory is 26
+Number of items in inventory is 26
+Number of items in inventory is 26
+Number of items in inventory is 26
+Number of items in inventory is 26
+Number of items in inventory is 26
+Number of items in inventory is 26
+Number of items in inventory is 26
+The total purchase price value of inventory items is $478.40
 The total number of items damages is: 3
-Number of items in inventory is 60
-Number of items in inventory is 61
-Number of items in inventory is 62
-Number of items in inventory is 18
-Shaggy clerk has left the store
+Number of items in inventory is 27
+Number of items in inventory is 28
+Daphne clerk has left the store

@@ -95,4 +95,12 @@ public class UnitTest
 		assertEquals(log.getDay(), 30);
 	}
 
+	@Test
+	public void TestGuitarKit(){
+		Store store = new Store("NorthStore");
+		Tune haphazardTuning = new haphazardTuning();
+		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
+		clerk.buyGuitarKit();
+	}
+
 }

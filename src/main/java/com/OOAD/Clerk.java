@@ -8,7 +8,7 @@ import java.util.Random;
  * @create 3/8/22 4:15 PM
  * @Description
  */
-public abstract class Clerk extends Staff implements Logger, Observer {
+public  class Clerk extends Staff implements Logger, Observer {
 	int daysWorked;
 	double damageChance;    // Velma = .05, Shaggy = .20
 	Store store;
@@ -298,7 +298,8 @@ public abstract class Clerk extends Staff implements Logger, Observer {
 
 	enum Category { A,B,C}
 	enum GuitarParts {BRIDGE,KNOBSET,COVERS,NECK,PICKUPS,PICKGUARDS}
-	void guitarClerk(){
+	public void buyGuitarKit(){
+		System.out.println("");
 		rndVar1 = Utility.randomEnum(Category.class);
 		rndVar2 = Utility.randomEnum(Category.class);
 		rndVar3 = Utility.randomEnum(Category.class);

@@ -93,6 +93,8 @@ public class Simulation implements Logger {
             case 5 : interactionStore.setCommand(new BuyCommand(interactionStore));
                 break;
                 //TODO guitar command
+            case 6 : interactionStore.setCommand(new BuyGuitarKitCommand(interactionStore));
+                break;
             case 7 : return -1;
             case 10 : interactionStore.setCommand(new SelectStoreCommand(this.storeList.get(0), this));
                       break;

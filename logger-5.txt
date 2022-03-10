@@ -1,19 +1,16 @@
+logger of Southside FNMS
 Daphne arrives at store.
 Number of items added to inventory is 0
-Daphne checks: $2,150.24 in register.
-Number of items in inventory is 37
-Number of items in inventory is 37
-Number of items in inventory is 37
-Number of items in inventory is 37
-The total purchase price value of inventory items is $861.00
-The total number of items damages is: 1
-Number of items in inventory is 24
-Number of items in inventory is 25
+Daphne checks: $1,773.32 in register.
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+Number of items in inventory is 39
+The total purchase price value of inventory items is $1,092.00
+The total number of items damages is: 0
 Number of items in inventory is 26
 Number of items in inventory is 27
-Number of items in inventory is 34
-Number of items in inventory is 35
+Number of items in inventory is 28
+Number of items in inventory is 29
 Number of items in inventory is 36
-Number of items in inventory is 37
-Number of items in inventory is 2
 Daphne clerk has left the store
