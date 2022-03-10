@@ -23,3 +23,5 @@ We have used strategy pattern to implement unique tuning algorithm to a clerk wh
 
 Decorator pattern: We add comboSell method to do a chain of additional selling activity (amps, strings, ...) based on the customer buying. Also, we add a new class called AccessoriesDecorator that extend accessories, all original accessories
 
+Singleton Pattern: We added Singleton pattern to log and tracker object. Log and tracker object uses a private variable to keep a single instance of their classes, this is accessed by the public method getInstance.
+
