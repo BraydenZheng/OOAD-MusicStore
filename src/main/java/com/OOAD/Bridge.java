@@ -1,9 +1,6 @@
 package com.OOAD;
 
-public class Bridge {
-int price = 30;
+public interface Bridge {
+public String toString();
 
-    public Bridge(int price) {
-        this.price = price;
-    }
 }

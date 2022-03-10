@@ -6726,3 +6726,2736 @@ Daphne              18             7            0
 Simon              0             0            0
 Mark              0             0            0
 Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              3             3            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              2             1            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              3             3            0
+Shaggy              9             2            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              5             2            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             4            0
+Shaggy              9             2            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              13             4            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              13             4            1
+Daphne              5             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             4            0
+Shaggy              9             2            1
+Daphne              4             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             1            0
+Shaggy              13             4            1
+Daphne              5             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             5            0
+Shaggy              9             2            1
+Daphne              4             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             1            0
+Shaggy              20             7            1
+Daphne              5             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             6            1
+Shaggy              9             2            1
+Daphne              4             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             9            1
+Shaggy              9             2            1
+Daphne              4             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             1            0
+Shaggy              28             8            1
+Daphne              5             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             11            1
+Shaggy              9             2            1
+Daphne              4             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             1            0
+Shaggy              28             8            1
+Daphne              9             5            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             11            1
+Shaggy              9             2            1
+Daphne              9             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             2            0
+Shaggy              28             8            1
+Daphne              9             5            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             2            0
+Shaggy              32             10            2
+Daphne              9             5            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             11            1
+Shaggy              9             2            1
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             2            0
+Shaggy              32             10            2
+Daphne              9             8            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              30             12            1
+Shaggy              9             2            1
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              7             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              4             1            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              6             4            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              1             1            0
+Shaggy              0             0            0
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              2             2            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              1             1            0
+Shaggy              3             3            0
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              3             3            0
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              9             3            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              8             4            1
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              14             6            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              8             4            1
+Daphne              9             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             9            1
+Shaggy              14             6            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             9            1
+Shaggy              17             8            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             4            0
+Shaggy              8             4            1
+Daphne              9             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             9            1
+Shaggy              17             8            1
+Daphne              3             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             4            0
+Shaggy              8             4            1
+Daphne              12             7            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             9            1
+Shaggy              22             9            1
+Daphne              3             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            0
+Shaggy              8             4            1
+Daphne              12             7            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            0
+Shaggy              8             4            1
+Daphne              15             10            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             11            2
+Shaggy              22             9            1
+Daphne              3             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            0
+Shaggy              8             8            1
+Daphne              15             10            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             15            2
+Shaggy              22             9            1
+Daphne              3             1            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             5            0
+Shaggy              10             9            1
+Daphne              15             10            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              8             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              8             2            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              14             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             2            0
+Shaggy              8             2            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              3             2            0
+Shaggy              0             0            0
+Daphne              14             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             2            0
+Shaggy              12             4            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             2            0
+Shaggy              13             5            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              3             2            0
+Shaggy              4             3            0
+Daphne              14             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             2            0
+Shaggy              18             7            2
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             6            0
+Shaggy              4             3            0
+Daphne              14             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             5            0
+Shaggy              18             7            2
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             9            0
+Shaggy              4             3            0
+Daphne              14             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             9            0
+Shaggy              11             6            0
+Daphne              14             5            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             5            0
+Shaggy              25             9            2
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             9            0
+Shaggy              11             6            0
+Daphne              15             7            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             5            0
+Shaggy              25             9            2
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             9            0
+Shaggy              11             6            0
+Daphne              18             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             5            0
+Shaggy              27             11            3
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             8            0
+Shaggy              27             11            3
+Daphne              4             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             9            0
+Shaggy              12             7            0
+Daphne              18             11            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             8            0
+Shaggy              27             11            3
+Daphne              9             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             9            0
+Shaggy              12             7            0
+Daphne              22             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             8            0
+Shaggy              27             11            3
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             12            0
+Shaggy              12             7            0
+Daphne              22             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              12             7            0
+Daphne              22             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             8            0
+Shaggy              32             13            3
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              15             8            0
+Daphne              22             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             11            0
+Shaggy              32             13            3
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              19             9            0
+Daphne              22             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             11            0
+Shaggy              33             17            3
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              33             17            3
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              21             10            0
+Daphne              22             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              36             18            4
+Daphne              12             6            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              27             12            0
+Daphne              22             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              36             18            4
+Daphne              13             9            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              27             12            0
+Daphne              26             15            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              27             12            0
+Daphne              31             16            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              36             18            4
+Daphne              16             12            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              27             12            0
+Daphne              33             18            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              39             19            4
+Daphne              16             12            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              27             12            0
+Daphne              37             19            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              39             19            4
+Daphne              18             15            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              40             21            4
+Daphne              18             15            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             15            0
+Shaggy              27             12            0
+Daphne              41             19            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              40             21            4
+Daphne              23             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             16            0
+Shaggy              27             12            0
+Daphne              41             19            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              42             22            4
+Daphne              23             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             19            0
+Shaggy              27             12            0
+Daphne              41             19            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             19            0
+Shaggy              27             12            0
+Daphne              42             21            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             13            0
+Shaggy              45             23            4
+Daphne              23             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             3            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              6             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              0             0            0
+Daphne              6             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              0             0            0
+Daphne              5             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              4             2            0
+Daphne              6             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              6             4            0
+Daphne              6             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              6             1            1
+Daphne              5             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              8             5            0
+Daphne              6             3            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              6             1            1
+Daphne              5             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              8             5            0
+Daphne              9             7            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              6             1            1
+Daphne              7             7            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              6             1            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              8             5            0
+Daphne              12             11            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              8             5            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              8             5            0
+Daphne              16             14            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              13             8            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              8             5            0
+Daphne              19             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              8             5            0
+Daphne              19             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              13             12            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              8             5            0
+Daphne              21             19            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              16             15            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              8             5            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              13             8            0
+Shaggy              19             19            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             8            0
+Shaggy              19             19            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             7            0
+Shaggy              8             5            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             8            0
+Shaggy              22             22            1
+Daphne              13             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             9            0
+Shaggy              8             5            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             8            0
+Shaggy              22             22            1
+Daphne              15             10            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             12            0
+Shaggy              8             5            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             12            0
+Shaggy              9             7            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             8            0
+Shaggy              25             24            1
+Daphne              15             10            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             12            0
+Shaggy              10             9            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             10            0
+Shaggy              25             24            1
+Daphne              15             10            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             16            0
+Shaggy              10             9            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             10            0
+Shaggy              27             26            1
+Daphne              15             10            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             13            0
+Shaggy              27             26            1
+Daphne              15             10            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             16            0
+Shaggy              11             11            0
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             13            0
+Shaggy              27             26            1
+Daphne              19             13            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             16            0
+Shaggy              18             13            1
+Daphne              23             21            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             13            0
+Shaggy              27             26            1
+Daphne              23             16            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             16            0
+Shaggy              18             13            1
+Daphne              24             22            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             16            0
+Shaggy              22             15            1
+Daphne              24             22            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             13            0
+Shaggy              27             26            1
+Daphne              27             17            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             16            0
+Shaggy              22             15            1
+Daphne              27             25            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             13            0
+Shaggy              29             30            1
+Daphne              27             17            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             16            0
+Shaggy              27             16            1
+Daphne              27             25            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              29             14            0
+Shaggy              29             30            1
+Daphne              27             17            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              29             14            0
+Shaggy              29             30            1
+Daphne              29             17            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             17            0
+Shaggy              27             16            1
+Daphne              27             25            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              4             2            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              14             4            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              4             2            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              4             2            0
+Shaggy              0             0            0
+Daphne              14             4            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              7             3            0
+Shaggy              7             5            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              0             0            0
+Daphne              14             4            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              0             0            0
+Daphne              18             5            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             4            0
+Shaggy              7             5            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              9             4            0
+Shaggy              0             0            0
+Daphne              22             6            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             4            0
+Shaggy              12             6            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              0             0            0
+Daphne              22             6            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              10             4            0
+Shaggy              22             8            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             6            0
+Shaggy              22             8            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              2             1            0
+Daphne              22             6            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             10            0
+Shaggy              22             8            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              2             1            0
+Daphne              25             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             10            0
+Shaggy              26             12            2
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              7             5            0
+Daphne              25             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              7             5            0
+Daphne              27             9            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             10            0
+Shaggy              26             12            2
+Daphne              4             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              7             5            0
+Daphne              29             10            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             11            0
+Shaggy              26             12            2
+Daphne              4             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             6            0
+Shaggy              9             6            0
+Daphne              29             10            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             11            0
+Shaggy              28             13            2
+Daphne              4             4            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             11            0
+Shaggy              28             13            2
+Daphne              8             5            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              9             6            0
+Daphne              29             10            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              22             11            0
+Shaggy              28             13            2
+Daphne              11             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              9             6            0
+Daphne              31             14            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             14            0
+Shaggy              28             13            2
+Daphne              11             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              10             9            1
+Daphne              31             14            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             9            0
+Shaggy              12             10            2
+Daphne              31             14            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             14            0
+Shaggy              28             13            2
+Daphne              15             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             12            0
+Shaggy              12             10            2
+Daphne              31             14            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             15            0
+Shaggy              28             13            2
+Daphne              15             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             16            0
+Shaggy              12             10            2
+Daphne              31             14            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              31             15            0
+Shaggy              28             13            2
+Daphne              15             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              31             15            0
+Shaggy              28             16            2
+Daphne              15             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             16            0
+Shaggy              12             10            2
+Daphne              31             15            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              31             15            0
+Shaggy              34             19            2
+Daphne              15             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             16            0
+Shaggy              16             11            2
+Daphne              31             15            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              32             16            0
+Shaggy              34             19            2
+Daphne              15             9            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              18             16            0
+Shaggy              16             11            2
+Daphne              34             18            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              21             18            0
+Shaggy              16             11            2
+Daphne              34             18            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              32             16            0
+Shaggy              34             19            2
+Daphne              16             11            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             19            0
+Shaggy              16             11            2
+Daphne              34             18            5
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              32             16            0
+Shaggy              34             21            2
+Daphne              16             11            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              3             3            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              5             1            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              3             3            0
+Daphne              4             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 2
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              12             5            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              3             3            0
+Daphne              8             4            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 3
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             6            0
+Shaggy              0             0            0
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 4
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             6            0
+Shaggy              6             2            1
+Daphne              0             0            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              3             3            0
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 5
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             6            0
+Shaggy              6             2            1
+Daphne              6             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              7             6            0
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 6
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             6            0
+Shaggy              12             6            1
+Daphne              6             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 7
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              9             7            0
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              15             10            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 8
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             6            0
+Shaggy              19             8            1
+Daphne              6             2            1
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              18             10            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 9
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              17             6            0
+Shaggy              19             8            1
+Daphne              9             4            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              2             3            0
+Shaggy              18             10            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 10
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             9            0
+Shaggy              19             8            1
+Daphne              9             4            2
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 11
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              20             9            0
+Shaggy              19             8            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              11             4            0
+Shaggy              18             10            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 12
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             11            0
+Shaggy              19             8            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              14             7            0
+Shaggy              18             10            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 13
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              25             14            0
+Shaggy              19             8            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 14
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              15             8            0
+Shaggy              18             10            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             8            0
+Shaggy              18             10            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 15
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             15            0
+Shaggy              19             8            1
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             8            0
+Shaggy              18             10            1
+Daphne              14             6            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 16
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             15            0
+Shaggy              25             11            2
+Daphne              10             5            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              16             8            0
+Shaggy              18             10            1
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 17
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             15            0
+Shaggy              25             11            2
+Daphne              10             7            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 18
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             15            0
+Shaggy              25             11            2
+Daphne              12             10            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              19             11            0
+Shaggy              18             10            1
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 19
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             15            0
+Shaggy              25             11            2
+Daphne              14             13            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             12            0
+Shaggy              18             10            1
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 20
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              34             19            0
+Shaggy              25             11            2
+Daphne              14             13            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 21
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             12            0
+Shaggy              20             14            1
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             15            0
+Shaggy              20             14            1
+Daphne              15             8            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 22
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              34             19            0
+Shaggy              25             11            2
+Daphne              16             14            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              23             15            0
+Shaggy              20             14            1
+Daphne              17             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 23
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              34             19            0
+Shaggy              25             11            2
+Daphne              18             15            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              27             17            0
+Shaggy              20             14            1
+Daphne              17             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 24
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              34             19            0
+Shaggy              25             11            2
+Daphne              23             17            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 25
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              34             19            0
+Shaggy              29             14            2
+Daphne              23             17            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             20            1
+Shaggy              20             14            1
+Daphne              17             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 26
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              34             19            0
+Shaggy              29             14            2
+Daphne              24             18            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             20            1
+Shaggy              22             15            1
+Daphne              17             12            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 27
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              35             22            0
+Shaggy              29             14            2
+Daphne              24             18            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 28
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              28             20            1
+Shaggy              22             15            1
+Daphne              20             13            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              29             21            1
+Shaggy              22             15            1
+Daphne              20             13            4
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+Tracker: 29
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              35             22            0
+Shaggy              32             17            2
+Daphne              24             18            3
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Northside FNMS
+
+
+Simulation for Northside FNMS
+
+
+Simulation for Northside FNMS
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              7             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS
+
+
+Simulation for Northside FNMS
+Tracker: 1
+Clerk      Items Sold      Items Purchased     Item Damaged
+Velma              0             0            0
+Shaggy              0             0            0
+Daphne              6             2            0
+Simon              0             0            0
+Mark              0             0            0
+Sid              0             0            0
+
+
+Simulation for Southside FNMS

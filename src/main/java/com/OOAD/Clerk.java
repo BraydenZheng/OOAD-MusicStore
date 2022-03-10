@@ -2,6 +2,7 @@ package com.OOAD;
 
 import java.util.Iterator;
 import java.util.Random;
+import java.util.Scanner;
 
 /**
  * @author Brayden
@@ -16,9 +17,9 @@ public  class Clerk extends Staff implements Logger, Observer {
 	int itemsSold;
 	int itemsPurchased;
 	int itemsDamaged;
-	Category rndVar1;
-	Category rndVar2;
-	Category rndVar3;
+	String rndVar1;
+	String rndVar2;
+	String rndVar3;
 	GuitarParts rndPart1;
 	GuitarParts rndPart2;
 	GuitarParts rndPart3;
@@ -297,20 +298,20 @@ public  class Clerk extends Staff implements Logger, Observer {
 	}
 
 	enum Category { A,B,C}
+
 	enum GuitarParts {BRIDGE,KNOBSET,COVERS,NECK,PICKUPS,PICKGUARDS}
-	public void buyGuitarKit(){
-		System.out.println("");
-		rndVar1 = Utility.randomEnum(Category.class);
-		rndVar2 = Utility.randomEnum(Category.class);
-		rndVar3 = Utility.randomEnum(Category.class);
-		rndPart1 = Utility.randomEnum(GuitarParts.class);
-		rndPart2 = Utility.randomEnum(GuitarParts.class);
-		rndPart3 = Utility.randomEnum(GuitarParts.class);
+	public Object buyGuitarKit(){
+		Scanner in = new Scanner(System.in);
+		out("Enter the  3 categories for guitar kit creation");
+		rndVar1=in.nextLine();
+		rndVar2=in.nextLine();
+		rndVar3=in.nextLine();
 
-		GuitarKit curr = GuitarKitFactory.createGuitarKit(rndVar1,rndVar2,rndVar3,rndPart1,rndPart2,rndPart3);
+		int curr = GuitarKitFactory.createGuitarKit(rndVar1,rndVar2,rndVar3);
 
 
-	}
+        return curr;
+    }
 
 
 
