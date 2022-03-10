@@ -1,5 +1,5 @@
 <h2>Team members : Bofan Zheng , Shreyas Savanoor Ravindra , Harini Thorali<h2> <br>
-<h3> This project using all example code for Project 2 Part 2 (Bruce Montgomery - 2/14/22 - OOAD CSCI 4/5448 - CU Boulder) </h3>
+<h3> This project uses all example code for Project 2 Part 2 (Bruce Montgomery - 2/14/22 - OOAD CSCI 4/5448 - CU Boulder) </h3>
 <h3>JAVA version: 13</h3>
 <h3> Assumptions and implementations :</h3>
 We have used Item class. Classes Music , Players , Instruments, Clothing,Accessories
@@ -25,3 +25,4 @@ Decorator pattern: We add comboSell method to do a chain of additional selling a
 
 Singleton Pattern: We added Singleton pattern to log and tracker object. Log and tracker object uses a private variable to keep a single instance of their classes, this is accessed by the public method getInstance.
 
+Abstract Factory: We have used Abstract Factory pattern to create a customized guitar kit for customer. When the customer choose the option to buy a guitar kit , he will be asked what category parts are needed and the guitar kit will be created according to this category of parts and the total price of the guitar kit would be returned.
