@@ -1,7 +1,8 @@
 package com.OOAD;
 
 public class BridgeC implements Bridge{
-    public String toString() {
-        return "BridgeC";
+    int price = 90;
+    public int price() {
+        return price;
     }
 }

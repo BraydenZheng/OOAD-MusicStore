@@ -17,12 +17,6 @@ public  class Clerk extends Staff implements Logger, Observer {
 	int itemsSold;
 	int itemsPurchased;
 	int itemsDamaged;
-	String rndVar1;
-	String rndVar2;
-	String rndVar3;
-	GuitarParts rndPart1;
-	GuitarParts rndPart2;
-	GuitarParts rndPart3;
 
 	Clerk(String name, double damageChance, Store store, Tune tuneAlgorithm) {
 		this.name = name;
@@ -302,19 +296,24 @@ public  class Clerk extends Staff implements Logger, Observer {
 	enum GuitarParts {BRIDGE,KNOBSET,COVERS,NECK,PICKUPS,PICKGUARDS}
 	public Object buyGuitarKit(){
 		Scanner in = new Scanner(System.in);
-		out("Enter the  3 categories for guitar kit creation");
-		rndVar1=in.nextLine();
-		rndVar2=in.nextLine();
-		rndVar3=in.nextLine();
+		out("Enter the category for guitar part Bridge - A,B,C");
+		String selectedBridge = in.nextLine();
+		out("Enter the category for guitar part KnobSet - A,B,C");
+		String selectedKnobSet = in.nextLine();
+		out("Enter the category for guitar part Covers - A,B,C");
+		String selectedCovers = in.nextLine();
+		out("Enter the category for guitar part Neck - A,B,C");
+		String selectedNeck = in.nextLine();
+		out("Enter the category for guitar part PickUp - A,B,C");
+		String selectedPickUp = in.nextLine();
+		out("Enter the category for guitar part PickGuards - A,B,C");
+		String selectedPickGuards = in.nextLine();
 
-		int curr = GuitarKitFactory.createGuitarKit(rndVar1,rndVar2,rndVar3);
+		int curr = GuitarKitFactory.createGuitarKit(selectedBridge,selectedKnobSet,selectedCovers,selectedNeck,selectedPickUp,selectedPickGuards);
 
 
         return curr;
     }
-
-
-
 	void cleanTheStore() {
 		out(this.name + " is cleaning up the store.");
 		if (Utility.rnd()>this.damageChance) {
@@ -325,7 +324,9 @@ public  class Clerk extends Staff implements Logger, Observer {
 			// reduce the condition for a random item
 			// take the item off the main inventory and put it on the broken items ArrayList
 			// left as an exercise to the reader :-)
-			Item item = store.inventory.items.get(Utility.rndFromRange(0,store.inventory.items.size()));
+
+			System.out.println("Inventory size :" + store.inventory.items.size());
+			Item item = store.inventory.items.get(Utility.rndFromRange(0,store.inventory.items.size()-1));
 			switch (item.condition){
 				case FAIR -> item.condition = Condition.POOR;
 				case GOOD -> item.condition = Condition.FAIR;

@@ -2,6 +2,7 @@ package com.OOAD;
 
 public interface GKitFactory {
     public Bridge createBridge();
+    public KnobSet createKnobSet();
 }
 //    public KnobSet createKnobSet();
 //    public Covers createCovers();

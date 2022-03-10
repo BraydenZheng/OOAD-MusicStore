@@ -1,7 +1,9 @@
 package com.OOAD;
 
 public class PickUpA implements PickUp{
-    public String toString() {
-        return "PickUpA";
+
+    int price = 30;
+    public int price() {
+        return price;
     }
 }

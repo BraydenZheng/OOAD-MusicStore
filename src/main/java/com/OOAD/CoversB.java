@@ -1,8 +1,8 @@
 package com.OOAD;
 
 public class CoversB implements Covers{
-    public String toString() {
-        return "CoversB";
+    int price = 60;
+    public int price() {
+        return price;
     }
-
 }

@@ -3,6 +3,8 @@ import com.OOAD.Command.Command;
 
 import java.util.ArrayList;
 
+import static java.util.Objects.isNull;
+
 public class Store implements Logger, Subject {
     public String name;
     public ArrayList<Clerk> clerks = new ArrayList<Clerk>();
@@ -91,7 +93,9 @@ public class Store implements Logger, Subject {
             getValidClerk();
         }
         newClerks();
-
+        if(isNull(clerk)){
+            clerk = clerks.get(0);
+        }
 
         // if they are ok to work, set days worked on other clerks to 0
         if (clerk.daysWorked < 3) {

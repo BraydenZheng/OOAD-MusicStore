@@ -5,19 +5,4 @@ public class NorthStore extends Store {
         super(name);
     }
 
-    protected Bridge createGuitarKit(GuitarKit.Category category) {
-        Bridge bridge;
-        GuitarKit guitar = null;
-        GKitFactory gKitFactory = new NorthGF();
-        if(category.equals("A")){
-            bridge = new BridgeA();
-        }
-        else if(category.equals("B")){
-            bridge = new BridgeB();
-        }
-        else{
-            bridge = new BridgeC();
-        }
-        return bridge;
-    }
 }

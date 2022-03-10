@@ -1,5 +1,5 @@
 package com.OOAD;
 
 public interface Neck {
-    public String toString();
+    public int price();
 }

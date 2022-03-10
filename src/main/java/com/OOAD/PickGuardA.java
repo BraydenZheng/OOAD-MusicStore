@@ -1,7 +1,8 @@
 package com.OOAD;
 
 public class PickGuardA implements PickGuard{
-    public String toString() {
-        return "PickGuardA";
+    int price = 30;
+    public int price() {
+        return price;
     }
 }

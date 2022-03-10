@@ -100,21 +100,20 @@ public class UnitTest
 
 	@Test
 	public void TestGuitarKit(){
-		String temp;
 		Tune haphazardTuning = new haphazardTuning();
 		Store store = new Store("NorthStore");
 		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
-		int price = (int) clerk.buyGuitarKit();
-		assertTrue(price>50);
-
+		int price = (int) GuitarKitFactory.createGuitarKit("A","A","A","A","A","A");
+		assertEquals(180,price);
 	}
+
 	@Test
 	public void TestGuitarKit0(){
 		String temp;
 		Tune haphazardTuning = new haphazardTuning();
 		Store store = new Store("NorthStore");
 		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
-		int price = (int) clerk.buyGuitarKit();
+		int price = (int) GuitarKitFactory.createGuitarKit("A","B","C","A","B","C");
 		assertFalse(price==0);
 
 	}
@@ -123,7 +122,7 @@ public class UnitTest
 		Tune haphazardTuning = new haphazardTuning();
 		Store store = new Store("NorthStore");
 		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
-		int price = (int) clerk.buyGuitarKit();
+		int price = (int) GuitarKitFactory.createGuitarKit("A","C","A","B","C","A");
 		assertNotNull(price);
 
 	}

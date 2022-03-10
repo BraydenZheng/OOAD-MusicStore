@@ -1,7 +1,8 @@
 package com.OOAD;
 
 public class NeckC implements Neck{
-    public String toString() {
-        return "NeckC";
+    int price = 90;
+    public int price() {
+        return price;
     }
 }

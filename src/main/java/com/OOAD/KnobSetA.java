@@ -1,7 +1,9 @@
 package com.OOAD;
 
 public class KnobSetA implements KnobSet{
-    public String toString() {
-        return "KnobSetA";
+    int price = 30;
+    public int price() {
+        return price;
     }
+
 }

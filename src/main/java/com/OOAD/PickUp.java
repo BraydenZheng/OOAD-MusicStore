@@ -1,6 +1,6 @@
 package com.OOAD;
 
 public interface PickUp {
-    public String toString();
+    public int price();
 }
 
