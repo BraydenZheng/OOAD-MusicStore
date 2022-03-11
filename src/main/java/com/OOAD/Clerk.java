@@ -301,7 +301,7 @@ public class Clerk extends Staff implements Logger, Observer {
 			// reduce the condition for a random item
 			// take the item off the main inventory and put it on the broken items ArrayList
 			// left as an exercise to the reader :-)
-			Item item = store.inventory.items.get(Utility.rndFromRange(0,store.inventory.items.size()));
+			Item item = store.inventory.items.get(Utility.rndFromRange(0,store.inventory.items.size() - 1));
 			switch (item.condition){
 				case FAIR -> item.condition = Condition.POOR;
 				case GOOD -> item.condition = Condition.FAIR;

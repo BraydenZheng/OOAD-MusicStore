@@ -1,6 +1,7 @@
+logger of Southside FNMS
 Velma arrives at store.
 Number of items added to inventory is 0
-Velma checks: $3,255.74 in register.
+Velma checks: $3,638.28 in register.
 Number of items in inventory is 20
 Number of items in inventory is 20
 Number of items in inventory is 20
@@ -10,7 +11,11 @@ Number of items in inventory is 20
 Number of items in inventory is 20
 Number of items in inventory is 20
 Number of items in inventory is 20
-The total purchase price value of inventory items is $431.00
-The total number of items damages is: 3
+Number of items in inventory is 20
+The total purchase price value of inventory items is $402.20
+The total number of items damages is: 2
+Number of items in inventory is 82
+Number of items in inventory is 20
 Number of items in inventory is 21
+Number of items in inventory is 22
 Velma clerk has left the store

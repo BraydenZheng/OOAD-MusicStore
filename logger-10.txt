@@ -1,17 +1,21 @@
-Velma arrives at store.
+logger of Southside FNMS
+Shaggy arrives at store.
 Number of items added to inventory is 0
-Velma checks: $1,889.02 in register.
-Number of items in inventory is 40
-Number of items in inventory is 40
-Number of items in inventory is 40
-Number of items in inventory is 40
-The total purchase price value of inventory items is $1,040.60
+Shaggy checks: $2,849.24 in register.
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+Number of items in inventory is 23
+The total purchase price value of inventory items is $513.50
 The total number of items damages is: 0
-Number of items in inventory is 31
-Number of items in inventory is 32
-Number of items in inventory is 33
-Number of items in inventory is 34
-Number of items in inventory is 37
-Number of items in inventory is 38
-Number of items in inventory is 39
-Velma clerk has left the store
+Number of items in inventory is 48
+Number of items in inventory is 49
+Number of items in inventory is 50
+Number of items in inventory is 21
+Shaggy clerk has left the store
