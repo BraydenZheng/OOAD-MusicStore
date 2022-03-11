@@ -1,0 +1,20 @@
+Daphne arrives at store.
+Number of items added to inventory is 0
+Daphne checks: $3,332.68 in register.
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+Number of items in inventory is 17
+The total purchase price value of inventory items is $476.80
+The total number of items damages is: 1
+Number of items in inventory is 69
+Number of items in inventory is 70
+Number of items in inventory is 16
+Daphne clerk has left the store
