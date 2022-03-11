@@ -1,21 +1,18 @@
 logger of Southside FNMS
-Daphne arrives at store.
+Velma arrives at store.
 Number of items added to inventory is 0
-Daphne checks: $3,455.08 in register.
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-Number of items in inventory is 19
-The total purchase price value of inventory items is $433.20
-The total number of items damages is: 1
-Number of items in inventory is 20
+Velma checks: $3,232.90 in register.
+Number of items in inventory is 21
+Number of items in inventory is 21
+Number of items in inventory is 21
+Number of items in inventory is 21
+Number of items in inventory is 21
+Number of items in inventory is 21
+Number of items in inventory is 21
+Number of items in inventory is 21
+The total purchase price value of inventory items is $493.80
+The total number of items damages is: 3
+Number of items in inventory is 68
 Number of items in inventory is 21
 Number of items in inventory is 22
-Daphne clerk has left the store
+Velma clerk has left the store

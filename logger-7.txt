@@ -1,17 +1,24 @@
 logger of Northside FNMS
-Velma arrives at store.
+Shaggy arrives at store.
 Number of items added to inventory is 0
-Velma checks: $1,762.10 in register.
-Number of items in inventory is 46
-Number of items in inventory is 46
-The total purchase price value of inventory items is $1,142.00
-The total number of items damages is: 1
+Shaggy checks: $2,254.30 in register.
+Number of items in inventory is 33
+Number of items in inventory is 33
+Number of items in inventory is 33
+The total purchase price value of inventory items is $833.70
+The total number of items damages is: 0
+Number of items in inventory is 30
+Number of items in inventory is 31
+Number of items in inventory is 32
+Number of items in inventory is 33
+Number of items in inventory is 34
+Number of items in inventory is 35
+Number of items in inventory is 36
+Number of items in inventory is 37
+Number of items in inventory is 38
+Number of items in inventory is 39
 Number of items in inventory is 24
 Number of items in inventory is 25
 Number of items in inventory is 26
-Number of items in inventory is 27
-Number of items in inventory is 43
-Number of items in inventory is 44
-Number of items in inventory is 45
-Number of items in inventory is 45
-Velma clerk has left the store
+Number of items in inventory is 26
+Shaggy clerk has left the store

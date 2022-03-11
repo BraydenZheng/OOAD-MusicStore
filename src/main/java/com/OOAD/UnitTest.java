@@ -6,8 +6,11 @@ import com.OOAD.Command.SellCommand;
 import com.OOAD.Command.TimeCommand;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import java.util.function.BooleanSupplier;
+import java.util.function.Supplier;
+
+import static com.OOAD.ItemType.CDPLAYER;
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author Brayden
@@ -93,6 +96,51 @@ public class UnitTest
 		log = Log.getLogInstance();
 		log.setDay(30);
 		assertEquals(log.getDay(), 30);
+	}
+
+	@Test
+	public void TestGuitarKit(){
+		Tune haphazardTuning = new haphazardTuning();
+		Store store = new Store("NorthStore");
+		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
+		int price = (int) GuitarKitFactory.createGuitarKit("A","A","A","A","A","A");
+		assertEquals(180,price);
+	}
+
+	@Test
+	public void TestGuitarKit0(){
+		String temp;
+		Tune haphazardTuning = new haphazardTuning();
+		Store store = new Store("NorthStore");
+		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
+		int price = (int) GuitarKitFactory.createGuitarKit("A","B","C","A","B","C");
+		assertFalse(price==0);
+
+	}
+	@Test
+	public void TestGuitarKitNull(){
+		Tune haphazardTuning = new haphazardTuning();
+		Store store = new Store("NorthStore");
+		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
+		int price = (int) GuitarKitFactory.createGuitarKit("A","C","A","B","C","A");
+		assertNotNull(price);
+
+	}
+	@Test
+	public void TestPurchasePrice() {
+		Store store = new Store("SouthStore");
+		Tune haphazardTuning = new haphazardTuning();
+		Clerk clerk = new Clerk("Daphne",0.5,store,haphazardTuning);
+		int price = (int) clerk.getPurchasePriceByCondition(Condition.POOR);
+		assertNotNull(price);
+	}
+	@Test
+	public void TestTuning() {
+		Store store = new Store("SouthStore");
+		Tune manualTuning = new manualTuning();
+		Item item = new CassettePlayers();
+		manualTuning.tuningTo(item);
+		assertTrue(((Players) item).equalized);
 	}
 
 }
